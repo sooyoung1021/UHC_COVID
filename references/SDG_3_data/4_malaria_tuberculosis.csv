@@ -1,0 +1,463 @@
+measure,location,sex,age,cause,metric,year,val,upper,lower
+Incidence,Cuba,Both,All Ages,Tuberculosis,Number,2010,943.8097874,1114.278437,807.0403935
+Incidence,Cuba,Both,All Ages,Tuberculosis,Percent,2010,1.48E-05,1.76E-05,1.26E-05
+Incidence,Cuba,Both,All Ages,Tuberculosis,Rate,2010,8.231373132,9.718103913,7.038548127
+Incidence,Cuba,Both,All Ages,Malaria,Number,2010,0,0,0
+Incidence,Cuba,Both,All Ages,Malaria,Percent,2010,0,0,0
+Incidence,Cuba,Both,All Ages,Malaria,Rate,2010,0,0,0
+Incidence,Cuba,Both,All Ages,Malaria,Number,2009,0,0,0
+Incidence,Cuba,Both,All Ages,Malaria,Percent,2009,0,0,0
+Incidence,Cuba,Both,All Ages,Malaria,Rate,2009,0,0,0
+Incidence,Cuba,Both,All Ages,Tuberculosis,Number,2009,957.7295526,1124.653675,818.0099181
+Incidence,Cuba,Both,All Ages,Tuberculosis,Percent,2009,1.50E-05,1.78E-05,1.28E-05
+Incidence,Cuba,Both,All Ages,Tuberculosis,Rate,2009,8.352520752,9.808294145,7.134002285
+Incidence,Cuba,Both,All Ages,Malaria,Number,2012,0,0,0
+Incidence,Cuba,Both,All Ages,Malaria,Percent,2012,0,0,0
+Incidence,Cuba,Both,All Ages,Malaria,Rate,2012,0,0,0
+Incidence,Cuba,Both,All Ages,Tuberculosis,Number,2012,865.5057066,1014.885145,742.9340157
+Incidence,Cuba,Both,All Ages,Tuberculosis,Percent,2012,1.35E-05,1.59E-05,1.16E-05
+Incidence,Cuba,Both,All Ages,Tuberculosis,Rate,2012,7.547458712,8.850090384,6.478598312
+Incidence,Cuba,Both,All Ages,Malaria,Number,2011,0,0,0
+Incidence,Cuba,Both,All Ages,Malaria,Percent,2011,0,0,0
+Incidence,Cuba,Both,All Ages,Malaria,Rate,2011,0,0,0
+Incidence,Cuba,Both,All Ages,Tuberculosis,Number,2011,914.3004514,1075.554955,782.7592433
+Incidence,Cuba,Both,All Ages,Tuberculosis,Percent,2011,1.43E-05,1.68E-05,1.22E-05
+Incidence,Cuba,Both,All Ages,Tuberculosis,Rate,2011,7.973064791,9.379268415,6.825972964
+Incidence,Cuba,Both,All Ages,Tuberculosis,Number,2013,808.7490646,943.99282,696.8384014
+Incidence,Cuba,Both,All Ages,Tuberculosis,Percent,2013,1.26E-05,1.50E-05,1.08E-05
+Incidence,Cuba,Both,All Ages,Tuberculosis,Rate,2013,7.054682825,8.234408206,6.07849099
+Incidence,Cuba,Both,All Ages,Malaria,Number,2013,0,0,0
+Incidence,Cuba,Both,All Ages,Malaria,Percent,2013,0,0,0
+Incidence,Cuba,Both,All Ages,Malaria,Rate,2013,0,0,0
+Incidence,Cuba,Both,All Ages,Tuberculosis,Number,2014,755.766775,881.4473311,650.860963
+Incidence,Cuba,Both,All Ages,Tuberculosis,Percent,2014,1.18E-05,1.39E-05,1.01E-05
+Incidence,Cuba,Both,All Ages,Tuberculosis,Rate,2014,6.595375041,7.692155727,5.679890004
+Incidence,Cuba,Both,All Ages,Malaria,Number,2015,0,0,0
+Incidence,Cuba,Both,All Ages,Malaria,Percent,2015,0,0,0
+Incidence,Cuba,Both,All Ages,Malaria,Rate,2015,0,0,0
+Incidence,Cuba,Both,All Ages,Malaria,Number,2014,0,0,0
+Incidence,Cuba,Both,All Ages,Malaria,Percent,2014,0,0,0
+Incidence,Cuba,Both,All Ages,Malaria,Rate,2014,0,0,0
+Incidence,Cuba,Both,All Ages,Tuberculosis,Number,2015,718.2428821,840.9857839,620.1684621
+Incidence,Cuba,Both,All Ages,Tuberculosis,Percent,2015,1.12E-05,1.32E-05,9.62E-06
+Incidence,Cuba,Both,All Ages,Tuberculosis,Rate,2015,6.272247541,7.34413267,5.41578651
+Incidence,Cuba,Both,All Ages,Tuberculosis,Number,2016,692.0756196,806.4016634,598.6843112
+Incidence,Cuba,Both,All Ages,Tuberculosis,Percent,2016,1.08E-05,1.27E-05,9.30E-06
+Incidence,Cuba,Both,All Ages,Tuberculosis,Rate,2016,6.051188626,7.050802594,5.234618287
+Incidence,Cuba,Both,All Ages,Malaria,Number,2016,0,0,0
+Incidence,Cuba,Both,All Ages,Malaria,Percent,2016,0,0,0
+Incidence,Cuba,Both,All Ages,Malaria,Rate,2016,0,0,0
+Incidence,Cuba,Both,All Ages,Malaria,Number,2017,0,0,0
+Incidence,Cuba,Both,All Ages,Malaria,Percent,2017,0,0,0
+Incidence,Cuba,Both,All Ages,Malaria,Rate,2017,0,0,0
+Incidence,Cuba,Both,All Ages,Tuberculosis,Number,2017,674.3322126,788.3208518,582.6538384
+Incidence,Cuba,Both,All Ages,Tuberculosis,Percent,2017,1.05E-05,1.23E-05,9.00E-06
+Incidence,Cuba,Both,All Ages,Tuberculosis,Rate,2017,5.907401365,6.905984304,5.104264658
+Incidence,Cuba,Both,All Ages,Tuberculosis,Number,2019,670.6772305,784.6768831,578.494336
+Incidence,Cuba,Both,All Ages,Tuberculosis,Percent,2019,1.04E-05,1.22E-05,8.90E-06
+Incidence,Cuba,Both,All Ages,Tuberculosis,Rate,2019,5.90462319,6.908272877,5.093047619
+Incidence,Cuba,Both,All Ages,Malaria,Number,2019,0,0,0
+Incidence,Cuba,Both,All Ages,Malaria,Percent,2019,0,0,0
+Incidence,Cuba,Both,All Ages,Malaria,Rate,2019,0,0,0
+Incidence,Cuba,Both,All Ages,Tuberculosis,Number,2018,668.5964028,781.3498381,579.9528582
+Incidence,Cuba,Both,All Ages,Tuberculosis,Percent,2018,1.04E-05,1.22E-05,8.94E-06
+Incidence,Cuba,Both,All Ages,Tuberculosis,Rate,2018,5.87150027,6.861681825,5.093047688
+Incidence,Cuba,Both,All Ages,Malaria,Number,2018,0,0,0
+Incidence,Cuba,Both,All Ages,Malaria,Percent,2018,0,0,0
+Incidence,Cuba,Both,All Ages,Malaria,Rate,2018,0,0,0
+Incidence,Global,Both,All Ages,Malaria,Number,2010,263746239.7,315020881.3,227189380.5
+Incidence,Global,Both,All Ages,Malaria,Percent,2010,0.007395192,0.00882607,0.006293096
+Incidence,Global,Both,All Ages,Malaria,Rate,2010,3774.641305,4508.465531,3251.452687
+Incidence,Global,Both,All Ages,Tuberculosis,Number,2010,8699429.714,9961164.197,7582190.335
+Incidence,Global,Both,All Ages,Tuberculosis,Percent,2010,0.000243919,0.000280286,0.000210361
+Incidence,Global,Both,All Ages,Tuberculosis,Rate,2010,124.5031086,142.5605987,108.5135805
+Incidence,Global,Both,All Ages,Malaria,Number,2009,263586458.4,313897251.5,227803624
+Incidence,Global,Both,All Ages,Malaria,Percent,2009,0.007465988,0.008905125,0.006363935
+Incidence,Global,Both,All Ages,Malaria,Rate,2009,3818.16786,4546.942222,3299.837482
+Incidence,Global,Both,All Ages,Tuberculosis,Number,2009,8747128.986,10022192.93,7625330.91
+Incidence,Global,Both,All Ages,Tuberculosis,Percent,2009,0.000247756,0.000284651,0.000213555
+Incidence,Global,Both,All Ages,Tuberculosis,Rate,2009,126.7060795,145.1759515,110.4563321
+Incidence,Global,Both,All Ages,Tuberculosis,Number,2011,8648825.956,9884012.946,7545176.598
+Incidence,Global,Both,All Ages,Tuberculosis,Percent,2011,0.000239658,0.000275071,0.000206709
+Incidence,Global,Both,All Ages,Tuberculosis,Rate,2011,122.2984359,139.7645565,106.6923188
+Incidence,Global,Both,All Ages,Malaria,Number,2011,260391286.8,309801429.4,222924898.3
+Incidence,Global,Both,All Ages,Malaria,Percent,2011,0.0072156,0.008629213,0.006109841
+Incidence,Global,Both,All Ages,Malaria,Rate,2011,3682.054334,4380.736813,3152.262113
+Incidence,Global,Both,All Ages,Tuberculosis,Number,2012,8559803.564,9776091.874,7477229.374
+Incidence,Global,Both,All Ages,Tuberculosis,Percent,2012,0.000234129,0.000268618,0.000202141
+Incidence,Global,Both,All Ages,Tuberculosis,Rate,2012,119.596853,136.5907307,104.4712178
+Incidence,Global,Both,All Ages,Malaria,Number,2012,251017832.3,299584234.8,212701088.6
+Incidence,Global,Both,All Ages,Malaria,Percent,2012,0.006866155,0.00820726,0.005780761
+Incidence,Global,Both,All Ages,Malaria,Rate,2012,3507.19997,4185.765647,2971.84166
+Incidence,Global,Both,All Ages,Tuberculosis,Number,2013,8460814.438,9663208.251,7415643.937
+Incidence,Global,Both,All Ages,Tuberculosis,Percent,2013,0.000228381,0.000261877,0.000197244
+Incidence,Global,Both,All Ages,Tuberculosis,Rate,2013,116.8239876,133.4262238,102.3926362
+Incidence,Global,Both,All Ages,Malaria,Number,2013,239167014,287573002.6,200273600.5
+Incidence,Global,Both,All Ages,Malaria,Percent,2013,0.006456105,0.007815286,0.005374006
+Incidence,Global,Both,All Ages,Malaria,Rate,2013,3302.335073,3970.708154,2765.308326
+Incidence,Global,Both,All Ages,Malaria,Number,2014,228667461.3,276451235.1,189008728.5
+Incidence,Global,Both,All Ages,Malaria,Percent,2014,0.006093021,0.00747233,0.004993108
+Incidence,Global,Both,All Ages,Malaria,Rate,2014,3121.226407,3773.457274,2579.899349
+Incidence,Global,Both,All Ages,Tuberculosis,Number,2014,8384264.952,9559393.248,7364208.489
+Incidence,Global,Both,All Ages,Tuberculosis,Percent,2014,0.000223392,0.000255909,0.000193687
+Incidence,Global,Both,All Ages,Tuberculosis,Rate,2014,114.4421205,130.4821878,100.5187265
+Incidence,Global,Both,All Ages,Malaria,Number,2016,222823501.6,277711076,181635951.3
+Incidence,Global,Both,All Ages,Malaria,Percent,2016,0.005787704,0.00727374,0.004680196
+Incidence,Global,Both,All Ages,Malaria,Rate,2016,2973.135091,3705.500268,2423.569402
+Incidence,Global,Both,All Ages,Tuberculosis,Number,2015,8363648.192,9531674.638,7353149.846
+Incidence,Global,Both,All Ages,Tuberculosis,Percent,2015,0.000220153,0.000252107,0.000190885
+Incidence,Global,Both,All Ages,Tuberculosis,Rate,2015,112.8706481,128.6336141,99.23358437
+Incidence,Global,Both,All Ages,Tuberculosis,Number,2016,8377484.834,9521205.222,7394280.122
+Incidence,Global,Both,All Ages,Tuberculosis,Percent,2016,0.000217587,0.000247925,0.000188756
+Incidence,Global,Both,All Ages,Tuberculosis,Rate,2016,111.7808218,127.0414887,98.66191645
+Incidence,Global,Both,All Ages,Malaria,Number,2015,223574830,272672466.1,182614139.2
+Incidence,Global,Both,All Ages,Malaria,Percent,2015,0.005885459,0.007283077,0.004746355
+Incidence,Global,Both,All Ages,Malaria,Rate,2015,3017.228293,3679.81977,2464.448021
+Incidence,Global,Both,All Ages,Tuberculosis,Number,2017,8421952.587,9563867.459,7440409.29
+Incidence,Global,Both,All Ages,Tuberculosis,Percent,2017,0.000215784,0.000245462,0.000187138
+Incidence,Global,Both,All Ages,Tuberculosis,Rate,2017,111.1367436,126.2055413,98.18422162
+Incidence,Global,Both,All Ages,Malaria,Number,2017,224108354.2,285162642.3,184034279.7
+Incidence,Global,Both,All Ages,Malaria,Percent,2017,0.005742228,0.007282948,0.004647929
+Incidence,Global,Both,All Ages,Malaria,Rate,2017,2957.351331,3763.028481,2428.530716
+Incidence,Global,Both,All Ages,Tuberculosis,Number,2018,8474049.373,9648281.293,7470104.725
+Incidence,Global,Both,All Ages,Tuberculosis,Percent,2018,0.000214204,0.000244134,0.000185848
+Incidence,Global,Both,All Ages,Tuberculosis,Rate,2018,110.6480028,125.9802732,97.53922027
+Incidence,Global,Both,All Ages,Malaria,Number,2018,227717038.5,287920984.6,186107694.1
+Incidence,Global,Both,All Ages,Malaria,Percent,2018,0.005756404,0.007284016,0.004651294
+Incidence,Global,Both,All Ages,Malaria,Rate,2018,2973.364256,3759.463805,2430.059556
+Incidence,Global,Both,All Ages,Tuberculosis,Number,2019,8497316.669,9727992.021,7445681.41
+Incidence,Global,Both,All Ages,Tuberculosis,Percent,2019,0.000211481,0.000242193,0.000182343
+Incidence,Global,Both,All Ages,Tuberculosis,Rate,2019,109.8204268,125.7258352,96.22895577
+Incidence,Global,Both,All Ages,Malaria,Number,2019,231357372.4,290217184.8,186034444.3
+Incidence,Global,Both,All Ages,Malaria,Percent,2019,0.005758336,0.007253576,0.004601525
+Incidence,Global,Both,All Ages,Malaria,Rate,2019,2990.092798,3750.804675,2404.333375
+Incidence,Nigeria,Both,All Ages,Malaria,Number,2010,64045849.22,79769415.65,53318690.7
+Incidence,Nigeria,Both,All Ages,Malaria,Percent,2010,0.064630322,0.080301085,0.053433517
+Incidence,Nigeria,Both,All Ages,Malaria,Rate,2010,38363.31536,47781.69524,31937.77225
+Incidence,Nigeria,Both,All Ages,Tuberculosis,Number,2009,313374.0349,360763.6533,272308.4264
+Incidence,Nigeria,Both,All Ages,Tuberculosis,Percent,2009,0.000324805,0.000377576,0.000279368
+Incidence,Nigeria,Both,All Ages,Tuberculosis,Rate,2009,193.3533303,222.5929595,168.0156467
+Incidence,Nigeria,Both,All Ages,Tuberculosis,Number,2010,308563.8842,354979.7726,268195.1141
+Incidence,Nigeria,Both,All Ages,Tuberculosis,Percent,2010,0.000311561,0.000361394,0.000268133
+Incidence,Nigeria,Both,All Ages,Tuberculosis,Rate,2010,184.8290521,212.6320617,160.6482522
+Incidence,Nigeria,Both,All Ages,Malaria,Number,2009,63222735.86,79333871.88,53030921.47
+Incidence,Nigeria,Both,All Ages,Malaria,Percent,2009,0.065490838,0.081385349,0.054710575
+Incidence,Nigeria,Both,All Ages,Malaria,Rate,2009,39008.7409,48949.39156,32720.34099
+Incidence,Nigeria,Both,All Ages,Malaria,Number,2011,63597363.65,78274848.27,52478993.29
+Incidence,Nigeria,Both,All Ages,Malaria,Percent,2011,0.062609388,0.077110077,0.051598772
+Incidence,Nigeria,Both,All Ages,Malaria,Rate,2011,36993.76771,45531.47157,30526.35481
+Incidence,Nigeria,Both,All Ages,Tuberculosis,Number,2011,306082.7443,351767.6895,266794.7929
+Incidence,Nigeria,Both,All Ages,Tuberculosis,Percent,2011,0.000301484,0.000349178,0.000259725
+Incidence,Nigeria,Both,All Ages,Tuberculosis,Rate,2011,178.044392,204.6187365,155.1910964
+Incidence,Nigeria,Both,All Ages,Malaria,Number,2013,58841663.75,72260712.13,47344209.31
+Incidence,Nigeria,Both,All Ages,Malaria,Percent,2013,0.055434073,0.068520485,0.044685547
+Incidence,Nigeria,Both,All Ages,Malaria,Rate,2013,32307.92851,39675.86525,25995.07275
+Incidence,Nigeria,Both,All Ages,Malaria,Number,2012,61572537.64,76722352.81,50228849.8
+Incidence,Nigeria,Both,All Ages,Malaria,Percent,2012,0.05927321,0.073130334,0.04844749
+Incidence,Nigeria,Both,All Ages,Malaria,Rate,2012,34791.56582,43351.96972,28381.81438
+Incidence,Nigeria,Both,All Ages,Tuberculosis,Number,2012,304349.0834,348995.7083,265148.9889
+Incidence,Nigeria,Both,All Ages,Tuberculosis,Percent,2012,0.000293119,0.000339543,0.000252751
+Incidence,Nigeria,Both,All Ages,Tuberculosis,Rate,2012,171.9724665,197.2000444,149.8224509
+Incidence,Nigeria,Both,All Ages,Tuberculosis,Number,2013,303277.8546,348481.4514,264061.659
+Incidence,Nigeria,Both,All Ages,Tuberculosis,Percent,2013,0.000285836,0.000330107,0.000246864
+Incidence,Nigeria,Both,All Ages,Tuberculosis,Rate,2013,166.5194119,191.3391482,144.9871512
+Incidence,Nigeria,Both,All Ages,Tuberculosis,Number,2015,302558.7753,347778.2693,263660.0494
+Incidence,Nigeria,Both,All Ages,Tuberculosis,Percent,2015,0.000272414,0.000314137,0.00023556
+Incidence,Nigeria,Both,All Ages,Tuberculosis,Rate,2015,157.0278506,180.496745,136.8394316
+Incidence,Nigeria,Both,All Ages,Tuberculosis,Number,2014,302708.1682,347870.4776,263150.7794
+Incidence,Nigeria,Both,All Ages,Tuberculosis,Percent,2014,0.000278877,0.00032205,0.000240664
+Incidence,Nigeria,Both,All Ages,Tuberculosis,Rate,2014,161.5624726,185.6666598,140.4497633
+Incidence,Nigeria,Both,All Ages,Malaria,Number,2015,55036277,69070353.74,42662618.01
+Incidence,Nigeria,Both,All Ages,Malaria,Percent,2015,0.049530789,0.062026404,0.03880325
+Incidence,Nigeria,Both,All Ages,Malaria,Rate,2015,28563.79979,35847.47849,22141.87707
+Incidence,Nigeria,Both,All Ages,Malaria,Number,2014,56335886.25,69811585.35,44583271.55
+Incidence,Nigeria,Both,All Ages,Malaria,Percent,2014,0.051879058,0.064406242,0.041291125
+Incidence,Nigeria,Both,All Ages,Malaria,Rate,2014,30067.78817,37260.08588,23795.14114
+Incidence,Nigeria,Both,All Ages,Tuberculosis,Number,2017,299794.2337,343699.3495,261608.1067
+Incidence,Nigeria,Both,All Ages,Tuberculosis,Percent,2017,0.000254548,0.000293604,0.000219842
+Incidence,Nigeria,Both,All Ages,Tuberculosis,Rate,2017,147.2811272,168.8505712,128.5212739
+Incidence,Nigeria,Both,All Ages,Malaria,Number,2017,54149553.04,76288653,37039156.49
+Incidence,Nigeria,Both,All Ages,Malaria,Percent,2017,0.045920095,0.064306975,0.031728509
+Incidence,Nigeria,Both,All Ages,Malaria,Rate,2017,26602.27019,37478.63547,18196.37639
+Incidence,Nigeria,Both,All Ages,Malaria,Number,2016,54120547.24,72826077.45,41327784.82
+Incidence,Nigeria,Both,All Ages,Malaria,Percent,2016,0.047363561,0.06306112,0.036016183
+Incidence,Nigeria,Both,All Ages,Malaria,Rate,2016,27323.05694,36766.6471,20864.56024
+Incidence,Nigeria,Both,All Ages,Tuberculosis,Number,2016,301127.3038,344716.2136,262739.0005
+Incidence,Nigeria,Both,All Ages,Tuberculosis,Percent,2016,0.000263682,0.000303428,0.000227661
+Incidence,Nigeria,Both,All Ages,Tuberculosis,Rate,2016,152.0257811,174.0318828,132.6452343
+Incidence,Nigeria,Both,All Ages,Tuberculosis,Number,2018,296241.0385,339584.6256,258587.9883
+Incidence,Nigeria,Both,All Ages,Tuberculosis,Percent,2018,0.000244268,0.000281718,0.000211044
+Incidence,Nigeria,Both,All Ages,Tuberculosis,Rate,2018,141.6649686,162.3922383,123.6589617
+Incidence,Nigeria,Both,All Ages,Malaria,Number,2018,55898942.79,76776936.63,37750974.75
+Incidence,Nigeria,Both,All Ages,Malaria,Percent,2018,0.04603781,0.062934747,0.031400625
+Incidence,Nigeria,Both,All Ages,Malaria,Rate,2018,26731.34693,36715.38005,18052.83521
+Incidence,Nigeria,Both,All Ages,Tuberculosis,Number,2019,288258.0519,332511.3206,250779.5088
+Incidence,Nigeria,Both,All Ages,Tuberculosis,Percent,2019,0.000230876,0.000266804,0.000198922
+Incidence,Nigeria,Both,All Ages,Tuberculosis,Rate,2019,134.1834895,154.7832888,116.7373101
+Incidence,Nigeria,Both,All Ages,Malaria,Number,2019,58143458.23,77565975.1,40113626.16
+Incidence,Nigeria,Both,All Ages,Malaria,Percent,2019,0.046512606,0.062380036,0.031891504
+Incidence,Nigeria,Both,All Ages,Malaria,Rate,2019,27065.65199,36106.79089,18672.8048
+Incidence,Oman,Both,All Ages,Tuberculosis,Number,2010,549.9669607,663.1400999,456.1116761
+Incidence,Oman,Both,All Ages,Tuberculosis,Percent,2010,3.66E-05,4.39E-05,3.01E-05
+Incidence,Oman,Both,All Ages,Tuberculosis,Rate,2010,19.37896372,23.36679993,16.07182296
+Incidence,Oman,Both,All Ages,Malaria,Number,2010,0,0,0
+Incidence,Oman,Both,All Ages,Malaria,Percent,2010,0,0,0
+Incidence,Oman,Both,All Ages,Malaria,Rate,2010,0,0,0
+Incidence,Oman,Both,All Ages,Malaria,Number,2009,0,0,0
+Incidence,Oman,Both,All Ages,Malaria,Percent,2009,0,0,0
+Incidence,Oman,Both,All Ages,Malaria,Rate,2009,0,0,0
+Incidence,Oman,Both,All Ages,Tuberculosis,Number,2009,525.3408851,632.4925971,438.6677181
+Incidence,Oman,Both,All Ages,Tuberculosis,Percent,2009,3.68E-05,4.41E-05,3.05E-05
+Incidence,Oman,Both,All Ages,Tuberculosis,Rate,2009,19.54377855,23.53004612,16.31935565
+Incidence,Oman,Both,All Ages,Malaria,Number,2012,0,0,0
+Incidence,Oman,Both,All Ages,Malaria,Percent,2012,0,0,0
+Incidence,Oman,Both,All Ages,Malaria,Rate,2012,0,0,0
+Incidence,Oman,Both,All Ages,Malaria,Number,2011,0,0,0
+Incidence,Oman,Both,All Ages,Malaria,Percent,2011,0,0,0
+Incidence,Oman,Both,All Ages,Malaria,Rate,2011,0,0,0
+Incidence,Oman,Both,All Ages,Tuberculosis,Number,2011,608.4085646,735.9539763,504.2840901
+Incidence,Oman,Both,All Ages,Tuberculosis,Percent,2011,3.65E-05,4.39E-05,2.98E-05
+Incidence,Oman,Both,All Ages,Tuberculosis,Rate,2011,19.17248195,23.19175821,15.89125824
+Incidence,Oman,Both,All Ages,Tuberculosis,Number,2012,667.016421,808.9399078,551.9396198
+Incidence,Oman,Both,All Ages,Tuberculosis,Percent,2012,3.55E-05,4.27E-05,2.89E-05
+Incidence,Oman,Both,All Ages,Tuberculosis,Rate,2012,18.52708008,22.46915365,15.33070133
+Incidence,Oman,Both,All Ages,Malaria,Number,2013,0,0,0
+Incidence,Oman,Both,All Ages,Malaria,Percent,2013,0,0,0
+Incidence,Oman,Both,All Ages,Malaria,Rate,2013,0,0,0
+Incidence,Oman,Both,All Ages,Tuberculosis,Number,2013,666.8822241,815.0927074,551.4325679
+Incidence,Oman,Both,All Ages,Tuberculosis,Percent,2013,3.33E-05,4.04E-05,2.71E-05
+Incidence,Oman,Both,All Ages,Tuberculosis,Rate,2013,17.35723563,21.21477477,14.35237688
+Incidence,Oman,Both,All Ages,Tuberculosis,Number,2014,635.8337876,769.9093441,526.6909787
+Incidence,Oman,Both,All Ages,Tuberculosis,Percent,2014,3.07E-05,3.74E-05,2.51E-05
+Incidence,Oman,Both,All Ages,Tuberculosis,Rate,2014,16.04714332,19.43093593,13.29260223
+Incidence,Oman,Both,All Ages,Malaria,Number,2014,0,0,0
+Incidence,Oman,Both,All Ages,Malaria,Percent,2014,0,0,0
+Incidence,Oman,Both,All Ages,Malaria,Rate,2014,0,0,0
+Incidence,Oman,Both,All Ages,Tuberculosis,Number,2015,618.2084711,753.0657877,513.2433343
+Incidence,Oman,Both,All Ages,Tuberculosis,Percent,2015,2.87E-05,3.48E-05,2.33E-05
+Incidence,Oman,Both,All Ages,Tuberculosis,Rate,2015,14.98392257,18.25254745,12.43981398
+Incidence,Oman,Both,All Ages,Malaria,Number,2015,0,0,0
+Incidence,Oman,Both,All Ages,Malaria,Percent,2015,0,0,0
+Incidence,Oman,Both,All Ages,Malaria,Rate,2015,0,0,0
+Incidence,Oman,Both,All Ages,Tuberculosis,Number,2016,614.576716,736.8722675,513.694677
+Incidence,Oman,Both,All Ages,Tuberculosis,Percent,2016,2.69E-05,3.26E-05,2.22E-05
+Incidence,Oman,Both,All Ages,Tuberculosis,Rate,2016,14.0592225,16.85688848,11.7514178
+Incidence,Oman,Both,All Ages,Malaria,Number,2016,0,0,0
+Incidence,Oman,Both,All Ages,Malaria,Percent,2016,0,0,0
+Incidence,Oman,Both,All Ages,Malaria,Rate,2016,0,0,0
+Incidence,Oman,Both,All Ages,Malaria,Number,2017,0,0,0
+Incidence,Oman,Both,All Ages,Malaria,Percent,2017,0,0,0
+Incidence,Oman,Both,All Ages,Malaria,Rate,2017,0,0,0
+Incidence,Oman,Both,All Ages,Tuberculosis,Number,2017,606.0498057,722.6644641,504.8753878
+Incidence,Oman,Both,All Ages,Tuberculosis,Percent,2017,2.56E-05,3.09E-05,2.11E-05
+Incidence,Oman,Both,All Ages,Tuberculosis,Rate,2017,13.43985147,16.02591564,11.19619239
+Incidence,Oman,Both,All Ages,Tuberculosis,Number,2018,599.2268278,720.0297731,502.6468948
+Incidence,Oman,Both,All Ages,Tuberculosis,Percent,2018,2.51E-05,3.04E-05,2.07E-05
+Incidence,Oman,Both,All Ages,Tuberculosis,Rate,2018,13.23209827,15.89966315,11.09942479
+Incidence,Oman,Both,All Ages,Malaria,Number,2018,0,0,0
+Incidence,Oman,Both,All Ages,Malaria,Percent,2018,0,0,0
+Incidence,Oman,Both,All Ages,Malaria,Rate,2018,0,0,0
+Incidence,Oman,Both,All Ages,Tuberculosis,Number,2019,602.1810464,729.2884402,499.8520214
+Incidence,Oman,Both,All Ages,Tuberculosis,Percent,2019,2.49E-05,3.03E-05,2.04E-05
+Incidence,Oman,Both,All Ages,Tuberculosis,Rate,2019,13.13658886,15.90943862,10.90427959
+Incidence,Oman,Both,All Ages,Malaria,Number,2019,0,0,0
+Incidence,Oman,Both,All Ages,Malaria,Percent,2019,0,0,0
+Incidence,Oman,Both,All Ages,Malaria,Rate,2019,0,0,0
+Incidence,Peru,Both,All Ages,Tuberculosis,Number,2010,28497.96806,33318.76358,24356.5251
+Incidence,Peru,Both,All Ages,Tuberculosis,Percent,2010,0.000164166,0.000194078,0.000139327
+Incidence,Peru,Both,All Ages,Tuberculosis,Rate,2010,98.57235292,115.2471262,84.24740958
+Incidence,Peru,Both,All Ages,Malaria,Number,2010,56559.09515,67056.2601,47316.79605
+Incidence,Peru,Both,All Ages,Malaria,Percent,2010,0.000325789,0.000384925,0.000270306
+Incidence,Peru,Both,All Ages,Malaria,Rate,2010,195.6337054,231.9426186,163.6652799
+Incidence,Peru,Both,All Ages,Malaria,Number,2009,68743.11358,79526.3472,59347.68599
+Incidence,Peru,Both,All Ages,Malaria,Percent,2009,0.00040136,0.000463785,0.000342503
+Incidence,Peru,Both,All Ages,Malaria,Rate,2009,241.0402893,278.8505312,208.0962391
+Incidence,Peru,Both,All Ages,Tuberculosis,Number,2009,28243.95337,32853.70296,24152.79275
+Incidence,Peru,Both,All Ages,Tuberculosis,Percent,2009,0.000164916,0.000193901,0.000139959
+Incidence,Peru,Both,All Ages,Tuberculosis,Rate,2009,99.0343663,115.1979544,84.68915427
+Incidence,Peru,Both,All Ages,Malaria,Number,2012,76852.65936,85968.62122,68147.76284
+Incidence,Peru,Both,All Ages,Malaria,Percent,2012,0.000425668,0.000483798,0.000374729
+Incidence,Peru,Both,All Ages,Malaria,Rate,2012,256.1544618,286.5385022,227.1405266
+Incidence,Peru,Both,All Ages,Tuberculosis,Number,2011,28250.55565,32902.35208,24103.18852
+Incidence,Peru,Both,All Ages,Tuberculosis,Percent,2011,0.000159955,0.00018795,0.000136159
+Incidence,Peru,Both,All Ages,Tuberculosis,Rate,2011,96.11457427,111.941004,82.00432345
+Incidence,Peru,Both,All Ages,Tuberculosis,Number,2012,27491.19641,31868.32153,23460.00473
+Incidence,Peru,Both,All Ages,Tuberculosis,Percent,2012,0.000152278,0.000179894,0.000129076
+Incidence,Peru,Both,All Ages,Tuberculosis,Rate,2012,91.62978459,106.2190017,78.19358413
+Incidence,Peru,Both,All Ages,Malaria,Number,2011,62812.72664,71865.38589,54542.78914
+Incidence,Peru,Both,All Ages,Malaria,Percent,2011,0.000355618,0.000407965,0.000306313
+Incidence,Peru,Both,All Ages,Malaria,Rate,2011,213.7026455,244.5017739,185.5665079
+Incidence,Peru,Both,All Ages,Tuberculosis,Number,2013,26591.3664,31049.80496,22654.3433
+Incidence,Peru,Both,All Ages,Tuberculosis,Percent,2013,0.000143321,0.00016849,0.000121325
+Incidence,Peru,Both,All Ages,Tuberculosis,Rate,2013,86.39391166,100.8791375,73.60273647
+Incidence,Peru,Both,All Ages,Malaria,Number,2013,94420.39596,105554.4888,83908.94152
+Incidence,Peru,Both,All Ages,Malaria,Percent,2013,0.000508865,0.000573797,0.000446654
+Incidence,Peru,Both,All Ages,Malaria,Rate,2013,306.7667613,342.940827,272.6156141
+Incidence,Peru,Both,All Ages,Tuberculosis,Number,2014,25770.70877,30294.02094,21896.80216
+Incidence,Peru,Both,All Ages,Tuberculosis,Percent,2014,0.000135372,0.000159625,0.000113809
+Incidence,Peru,Both,All Ages,Tuberculosis,Rate,2014,81.76425512,96.11563571,69.473282
+Incidence,Peru,Both,All Ages,Malaria,Number,2014,110113.9586,124212.3389,96152.7171
+Incidence,Peru,Both,All Ages,Malaria,Percent,2014,0.00057838,0.000659538,0.00050401
+Incidence,Peru,Both,All Ages,Malaria,Rate,2014,349.3650828,394.0958494,305.0694244
+Incidence,Peru,Both,All Ages,Malaria,Number,2015,118103.1953,136329.6447,101200.3712
+Incidence,Peru,Both,All Ages,Malaria,Percent,2015,0.000607482,0.000707062,0.000515779
+Incidence,Peru,Both,All Ages,Malaria,Rate,2015,367.6550714,424.3939811,315.0366049
+Incidence,Peru,Both,All Ages,Tuberculosis,Number,2015,25400.03995,29975.64158,21496.81791
+Incidence,Peru,Both,All Ages,Tuberculosis,Percent,2015,0.000130658,0.000154512,0.000109511
+Incidence,Peru,Both,All Ages,Tuberculosis,Rate,2015,79.07028658,93.31412764,66.91956217
+Incidence,Peru,Both,All Ages,Tuberculosis,Number,2016,25496.97654,29971.96052,21767.3583
+Incidence,Peru,Both,All Ages,Tuberculosis,Percent,2016,0.000128628,0.00015158,0.000109642
+Incidence,Peru,Both,All Ages,Tuberculosis,Rate,2016,78.15762721,91.87510186,66.72497317
+Incidence,Peru,Both,All Ages,Malaria,Number,2016,103863.105,114302.9865,95403.25628
+Incidence,Peru,Both,All Ages,Malaria,Percent,2016,0.000523981,0.000584038,0.000472618
+Incidence,Peru,Both,All Ages,Malaria,Rate,2016,318.3786841,350.3807675,292.4461309
+Incidence,Peru,Both,All Ages,Malaria,Number,2017,86181.59133,101122.8118,72808.92761
+Incidence,Peru,Both,All Ages,Malaria,Percent,2017,0.000425384,0.00050534,0.000355889
+Incidence,Peru,Both,All Ages,Malaria,Rate,2017,259.3095156,304.2657596,219.0728607
+Incidence,Peru,Both,All Ages,Tuberculosis,Number,2017,25860.92155,30519.91021,22131.47284
+Incidence,Peru,Both,All Ages,Tuberculosis,Percent,2017,0.000127629,0.00015112,0.000109205
+Incidence,Peru,Both,All Ages,Tuberculosis,Rate,2017,77.8122443,91.83055234,66.59080452
+Incidence,Peru,Both,All Ages,Tuberculosis,Number,2018,26045.2536,30368.70668,22380.97777
+Incidence,Peru,Both,All Ages,Tuberculosis,Percent,2018,0.000126753,0.000149105,0.000108293
+Incidence,Peru,Both,All Ages,Tuberculosis,Rate,2018,77.31253717,90.14624316,66.43552805
+Incidence,Peru,Both,All Ages,Malaria,Number,2018,84582.07538,116011.5126,62335.96527
+Incidence,Peru,Both,All Ages,Malaria,Percent,2018,0.000411705,0.000574015,0.000300635
+Incidence,Peru,Both,All Ages,Malaria,Rate,2018,251.0728038,344.3677115,185.0376159
+Incidence,Peru,Both,All Ages,Tuberculosis,Number,2019,26005.15383,30344.57348,22198.47612
+Incidence,Peru,Both,All Ages,Tuberculosis,Percent,2019,0.00012546,0.000148343,0.000106228
+Incidence,Peru,Both,All Ages,Tuberculosis,Rate,2019,76.49610192,89.26082886,65.29847517
+Incidence,Peru,Both,All Ages,Malaria,Number,2019,90340.01555,201209.1865,35935.16762
+Incidence,Peru,Both,All Ages,Malaria,Percent,2019,0.000435839,0.000952386,0.000177283
+Incidence,Peru,Both,All Ages,Malaria,Rate,2019,265.7419018,591.8718473,105.705979
+Incidence,Rwanda,Both,All Ages,Tuberculosis,Number,2010,21740.5697,25355.06888,18423.83961
+Incidence,Rwanda,Both,All Ages,Tuberculosis,Percent,2010,0.00037913,0.000448669,0.000319447
+Incidence,Rwanda,Both,All Ages,Tuberculosis,Rate,2010,210.7226115,245.7565005,178.5748787
+Incidence,Rwanda,Both,All Ages,Malaria,Number,2010,747115.3445,968662.0035,527996.0425
+Incidence,Rwanda,Both,All Ages,Malaria,Percent,2010,0.013028305,0.017172706,0.009059087
+Incidence,Rwanda,Both,All Ages,Malaria,Rate,2010,7241.489007,9388.851803,5117.653607
+Incidence,Rwanda,Both,All Ages,Tuberculosis,Number,2009,21639.79779,25225.95595,18458.02581
+Incidence,Rwanda,Both,All Ages,Tuberculosis,Percent,2009,0.00038449,0.000453096,0.000322716
+Incidence,Rwanda,Both,All Ages,Tuberculosis,Rate,2009,215.4268551,251.1275018,183.7519228
+Incidence,Rwanda,Both,All Ages,Malaria,Number,2009,707110.4352,912816.2232,512133.1846
+Incidence,Rwanda,Both,All Ages,Malaria,Percent,2009,0.01256327,0.016398255,0.009171686
+Incidence,Rwanda,Both,All Ages,Malaria,Rate,2009,7039.371568,9087.198052,5098.348998
+Incidence,Rwanda,Both,All Ages,Tuberculosis,Number,2012,21604.43555,25335.21236,18468.70247
+Incidence,Rwanda,Both,All Ages,Tuberculosis,Percent,2012,0.00036157,0.000426151,0.000305203
+Incidence,Rwanda,Both,All Ages,Tuberculosis,Rate,2012,198.516457,232.7974078,169.7031783
+Incidence,Rwanda,Both,All Ages,Malaria,Number,2012,703654.4002,908747.7724,498257.9685
+Incidence,Rwanda,Both,All Ages,Malaria,Percent,2012,0.011775742,0.015392671,0.008230668
+Incidence,Rwanda,Both,All Ages,Malaria,Rate,2012,6465.662022,8350.201402,4578.337922
+Incidence,Rwanda,Both,All Ages,Tuberculosis,Number,2011,21757.2931,25374.72578,18545.18768
+Incidence,Rwanda,Both,All Ages,Tuberculosis,Percent,2011,0.000371331,0.000436999,0.00031259
+Incidence,Rwanda,Both,All Ages,Tuberculosis,Rate,2011,205.3161218,239.4525948,175.0045834
+Incidence,Rwanda,Both,All Ages,Malaria,Number,2011,741569.3331,955608.9556,525905.3524
+Incidence,Rwanda,Both,All Ages,Malaria,Percent,2011,0.012655735,0.016564901,0.008846508
+Incidence,Rwanda,Both,All Ages,Malaria,Rate,2011,6997.935767,9017.754363,4962.788658
+Incidence,Rwanda,Both,All Ages,Tuberculosis,Number,2013,21328.59975,25134.8035,18271.24123
+Incidence,Rwanda,Both,All Ages,Tuberculosis,Percent,2013,0.000351739,0.000416615,0.000296699
+Incidence,Rwanda,Both,All Ages,Tuberculosis,Rate,2013,191.6492392,225.8500804,164.1771856
+Incidence,Rwanda,Both,All Ages,Malaria,Number,2013,650135.5358,854002.6638,459192.1517
+Incidence,Rwanda,Both,All Ages,Malaria,Percent,2013,0.010721159,0.01403452,0.007541462
+Incidence,Rwanda,Both,All Ages,Malaria,Rate,2013,5841.826574,7673.685225,4126.094893
+Incidence,Rwanda,Both,All Ages,Malaria,Number,2014,602826.5655,799928.1534,424413.0771
+Incidence,Rwanda,Both,All Ages,Malaria,Percent,2014,0.009818407,0.012967837,0.006807984
+Incidence,Rwanda,Both,All Ages,Malaria,Rate,2014,5318.285433,7057.164514,3744.2774
+Incidence,Rwanda,Both,All Ages,Tuberculosis,Number,2014,21116.97839,24895.71303,18001.54797
+Incidence,Rwanda,Both,All Ages,Tuberculosis,Percent,2014,0.000343955,0.000404578,0.000289558
+Incidence,Rwanda,Both,All Ages,Tuberculosis,Rate,2014,186.2992193,219.6361533,158.8141197
+Incidence,Rwanda,Both,All Ages,Malaria,Number,2015,589099.1391,786990.9802,405877.2019
+Incidence,Rwanda,Both,All Ages,Malaria,Percent,2015,0.009413268,0.012571035,0.00648628
+Incidence,Rwanda,Both,All Ages,Malaria,Rate,2015,5084.315798,6792.253473,3502.989111
+Incidence,Rwanda,Both,All Ages,Tuberculosis,Number,2015,21272.9639,25189.63734,18166.10342
+Incidence,Rwanda,Both,All Ages,Tuberculosis,Percent,2015,0.000339943,0.000398699,0.000285152
+Incidence,Rwanda,Both,All Ages,Tuberculosis,Rate,2015,183.59977,217.4032562,156.785506
+Incidence,Rwanda,Both,All Ages,Tuberculosis,Number,2016,21816.70467,25597.03701,18728.19848
+Incidence,Rwanda,Both,All Ages,Tuberculosis,Percent,2016,0.000336104,0.000394539,0.000282849
+Incidence,Rwanda,Both,All Ages,Tuberculosis,Rate,2016,183.7028636,215.534338,157.6967624
+Incidence,Rwanda,Both,All Ages,Malaria,Number,2016,757231.5518,1051754.926,509467.7739
+Incidence,Rwanda,Both,All Ages,Malaria,Percent,2016,0.011664323,0.016263451,0.007873367
+Incidence,Rwanda,Both,All Ages,Malaria,Rate,2016,6376.10522,8856.075865,4289.863681
+Incidence,Rwanda,Both,All Ages,Tuberculosis,Number,2017,22355.26739,26214.36397,19140.12473
+Incidence,Rwanda,Both,All Ages,Tuberculosis,Percent,2017,0.000332581,0.000395025,0.00028135
+Incidence,Rwanda,Both,All Ages,Tuberculosis,Rate,2017,184.0492173,215.8208661,157.5791921
+Incidence,Rwanda,Both,All Ages,Malaria,Number,2017,931646.8654,1313387.193,573801.5233
+Incidence,Rwanda,Both,All Ages,Malaria,Percent,2017,0.013854843,0.019704485,0.008695702
+Incidence,Rwanda,Both,All Ages,Malaria,Rate,2017,7670.177831,10813.01693,4724.064328
+Incidence,Rwanda,Both,All Ages,Malaria,Number,2018,885522.0095,1391456.632,486716.9865
+Incidence,Rwanda,Both,All Ages,Malaria,Percent,2018,0.012860632,0.020303341,0.007144946
+Incidence,Rwanda,Both,All Ages,Malaria,Rate,2018,7134.377558,11210.53668,3921.328559
+Incidence,Rwanda,Both,All Ages,Tuberculosis,Number,2018,22458.88567,26377.01316,19235.96623
+Incidence,Rwanda,Both,All Ages,Tuberculosis,Percent,2018,0.000326375,0.000382499,0.000276713
+Incidence,Rwanda,Both,All Ages,Tuberculosis,Rate,2018,180.944311,212.5114551,154.9782437
+Incidence,Rwanda,Both,All Ages,Tuberculosis,Number,2019,22130.79288,26226.33154,18851.60639
+Incidence,Rwanda,Both,All Ages,Tuberculosis,Percent,2019,0.000315113,0.000374248,0.000264515
+Incidence,Rwanda,Both,All Ages,Tuberculosis,Rate,2019,174.4214082,206.6999454,148.5768608
+Incidence,Rwanda,Both,All Ages,Malaria,Number,2019,695856.32,1423712.739,272369.1343
+Incidence,Rwanda,Both,All Ages,Malaria,Percent,2019,0.009892481,0.020442403,0.003772076
+Incidence,Rwanda,Both,All Ages,Malaria,Rate,2019,5484.314995,11220.83525,2146.647353
+Incidence,Viet Nam,Both,All Ages,Tuberculosis,Number,2009,156445.9998,175737.733,140146.02
+Incidence,Viet Nam,Both,All Ages,Tuberculosis,Percent,2009,0.000396341,0.000448542,0.000348265
+Incidence,Viet Nam,Both,All Ages,Tuberculosis,Rate,2009,176.5991004,198.375961,158.1993857
+Incidence,Viet Nam,Both,All Ages,Malaria,Number,2009,46549.14729,53117.34399,40419.84774
+Incidence,Viet Nam,Both,All Ages,Malaria,Percent,2009,0.000117909,0.000135557,0.000101549
+Incidence,Viet Nam,Both,All Ages,Malaria,Rate,2009,52.54552718,59.95982751,45.62666196
+Incidence,Viet Nam,Both,All Ages,Tuberculosis,Number,2010,159065.0421,179240.5287,141867.6347
+Incidence,Viet Nam,Both,All Ages,Tuberculosis,Percent,2010,0.00039931,0.000453354,0.000350433
+Incidence,Viet Nam,Both,All Ages,Tuberculosis,Rate,2010,177.7854693,200.3354168,158.5640923
+Incidence,Viet Nam,Both,All Ages,Malaria,Number,2010,43726.3772,51295.6772,36973.92347
+Incidence,Viet Nam,Both,All Ages,Malaria,Percent,2010,0.000109746,0.000128832,9.21E-05
+Incidence,Viet Nam,Both,All Ages,Malaria,Rate,2010,48.87255168,57.33268556,41.32539902
+Incidence,Viet Nam,Both,All Ages,Tuberculosis,Number,2011,160655.0641,180137.7476,143539.0965
+Incidence,Viet Nam,Both,All Ages,Tuberculosis,Percent,2011,0.000399596,0.000452774,0.000351027
+Incidence,Viet Nam,Both,All Ages,Tuberculosis,Rate,2011,177.8177196,199.3817231,158.8732665
+Incidence,Viet Nam,Both,All Ages,Malaria,Number,2011,39987.97892,45511.63685,34984.52374
+Incidence,Viet Nam,Both,All Ages,Malaria,Percent,2011,9.94E-05,0.000113855,8.60E-05
+Incidence,Viet Nam,Both,All Ages,Malaria,Rate,2011,44.2598636,50.37360962,38.7218932
+Incidence,Viet Nam,Both,All Ages,Tuberculosis,Number,2013,160069.3158,178135.0412,143024.3781
+Incidence,Viet Nam,Both,All Ages,Tuberculosis,Percent,2013,0.000391645,0.000441995,0.000346303
+Incidence,Viet Nam,Both,All Ages,Tuberculosis,Rate,2013,173.8745924,193.4984075,155.3596035
+Incidence,Viet Nam,Both,All Ages,Malaria,Number,2013,31573.51514,34822.0803,28421.09141
+Incidence,Viet Nam,Both,All Ages,Malaria,Percent,2013,7.72E-05,8.60E-05,6.86E-05
+Incidence,Viet Nam,Both,All Ages,Malaria,Rate,2013,34.29659238,37.82533204,30.87228592
+Incidence,Viet Nam,Both,All Ages,Tuberculosis,Number,2012,160826.788,179178.2504,143767.1282
+Incidence,Viet Nam,Both,All Ages,Tuberculosis,Percent,2012,0.000396674,0.000448147,0.000349819
+Incidence,Viet Nam,Both,All Ages,Tuberculosis,Rate,2012,176.3119678,196.4303976,157.6097215
+Incidence,Viet Nam,Both,All Ages,Malaria,Number,2012,35887.55903,40056.15181,32068.61095
+Incidence,Viet Nam,Both,All Ages,Malaria,Percent,2012,8.85E-05,9.98E-05,7.79E-05
+Incidence,Viet Nam,Both,All Ages,Malaria,Rate,2012,39.34298651,43.91295154,35.15633167
+Incidence,Viet Nam,Both,All Ages,Tuberculosis,Number,2015,158069.6417,174362.0788,141317.0856
+Incidence,Viet Nam,Both,All Ages,Tuberculosis,Percent,2015,0.000380873,0.000428779,0.000334938
+Incidence,Viet Nam,Both,All Ages,Tuberculosis,Rate,2015,168.8006502,186.1991458,150.910799
+Incidence,Viet Nam,Both,All Ages,Malaria,Number,2014,27207.09082,30215.53299,24286.88023
+Incidence,Viet Nam,Both,All Ages,Malaria,Percent,2014,6.61E-05,7.43E-05,5.85E-05
+Incidence,Viet Nam,Both,All Ages,Malaria,Rate,2014,29.29659706,32.53608779,26.15211412
+Incidence,Viet Nam,Both,All Ages,Malaria,Number,2015,22961.50978,26010.60661,20045.81144
+Incidence,Viet Nam,Both,All Ages,Malaria,Percent,2015,5.53E-05,6.33E-05,4.79E-05
+Incidence,Viet Nam,Both,All Ages,Malaria,Rate,2015,24.52031736,27.77641082,21.40667852
+Incidence,Viet Nam,Both,All Ages,Tuberculosis,Number,2014,158949.6232,176090.7196,142228.9644
+Incidence,Viet Nam,Both,All Ages,Tuberculosis,Percent,2014,0.000385958,0.000435217,0.000340874
+Incidence,Viet Nam,Both,All Ages,Tuberculosis,Rate,2014,171.156964,189.6144977,153.1521576
+Incidence,Viet Nam,Both,All Ages,Tuberculosis,Number,2016,156466.3132,171827.9941,140654.9944
+Incidence,Viet Nam,Both,All Ages,Tuberculosis,Percent,2016,0.000372654,0.000413796,0.00033025
+Incidence,Viet Nam,Both,All Ages,Tuberculosis,Rate,2016,165.7674347,182.042289,149.016214
+Incidence,Viet Nam,Both,All Ages,Malaria,Number,2016,18082.04009,19615.82168,16950.2393
+Incidence,Viet Nam,Both,All Ages,Malaria,Percent,2016,4.31E-05,4.74E-05,3.94E-05
+Incidence,Viet Nam,Both,All Ages,Malaria,Rate,2016,19.15692482,20.78188188,17.95784428
+Incidence,Viet Nam,Both,All Ages,Tuberculosis,Number,2017,155726.4422,169644.272,140544.1219
+Incidence,Viet Nam,Both,All Ages,Tuberculosis,Percent,2017,0.000366879,0.000404568,0.000323074
+Incidence,Viet Nam,Both,All Ages,Tuberculosis,Rate,2017,163.7576936,178.3933051,147.7923783
+Incidence,Viet Nam,Both,All Ages,Malaria,Number,2017,14943.70827,17120.07369,12983.37366
+Incidence,Viet Nam,Both,All Ages,Malaria,Percent,2017,3.52E-05,4.05E-05,3.03E-05
+Incidence,Viet Nam,Both,All Ages,Malaria,Rate,2017,15.71439741,18.00300413,13.65296282
+Incidence,Viet Nam,Both,All Ages,Tuberculosis,Number,2018,155757.7706,169983.3762,139595.2567
+Incidence,Viet Nam,Both,All Ages,Tuberculosis,Percent,2018,0.000364993,0.000405339,0.000321985
+Incidence,Viet Nam,Both,All Ages,Tuberculosis,Rate,2018,162.6651522,177.52162,145.7858802
+Incidence,Viet Nam,Both,All Ages,Malaria,Number,2019,17600.34996,35551.40269,5901.916875
+Incidence,Viet Nam,Both,All Ages,Malaria,Percent,2019,4.12E-05,8.24E-05,1.37E-05
+Incidence,Viet Nam,Both,All Ages,Malaria,Rate,2019,18.26275312,36.88940799,6.124040208
+Incidence,Viet Nam,Both,All Ages,Malaria,Number,2018,15212.73359,19905.33842,10977.02126
+Incidence,Viet Nam,Both,All Ages,Malaria,Percent,2018,3.56E-05,4.68E-05,2.57E-05
+Incidence,Viet Nam,Both,All Ages,Malaria,Rate,2018,15.88737189,20.78807942,11.46381864
+Incidence,Viet Nam,Both,All Ages,Tuberculosis,Number,2019,154499.0964,170988.0005,137040.3087
+Incidence,Viet Nam,Both,All Ages,Tuberculosis,Percent,2019,0.000361296,0.000405098,0.000316912
+Incidence,Viet Nam,Both,All Ages,Tuberculosis,Rate,2019,160.3137927,177.4232698,142.1979296

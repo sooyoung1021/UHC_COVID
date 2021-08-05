@@ -1,0 +1,793 @@
+measure,location,sex,age,cause,metric,year,val,upper,lower
+Deaths,Cuba,Both,All Ages,Chronic respiratory diseases,Number,2009,3507.419393,3780.515927,2964.328824
+Deaths,Cuba,Both,All Ages,Chronic respiratory diseases,Percent,2009,0.040765986,0.043939434,0.034338807
+Deaths,Cuba,Both,All Ages,Chronic respiratory diseases,Rate,2009,30.58879533,32.97051621,25.852411
+Deaths,Cuba,Both,All Ages,Total cancers,Number,2009,22247.98699,23092.12099,20896.07332
+Deaths,Cuba,Both,All Ages,Total cancers,Percent,2009,0.258580518,0.267140601,0.242833422
+Deaths,Cuba,Both,All Ages,Total cancers,Rate,2009,194.0284421,201.3902769,182.2381753
+Deaths,Cuba,Both,All Ages,Cardiovascular diseases,Number,2009,33154.81167,34737.2765,30522.61859
+Deaths,Cuba,Both,All Ages,Cardiovascular diseases,Percent,2009,0.385347477,0.402288805,0.354177085
+Deaths,Cuba,Both,All Ages,Cardiovascular diseases,Rate,2009,289.1486973,302.9496396,266.1928981
+Deaths,Cuba,Both,All Ages,Diabetes mellitus,Number,2009,1695.444054,1785.756769,1584.701721
+Deaths,Cuba,Both,All Ages,Diabetes mellitus,Percent,2009,0.019705499,0.020671232,0.018380306
+Deaths,Cuba,Both,All Ages,Diabetes mellitus,Rate,2009,14.78625318,15.57388558,13.82045064
+Deaths,Cuba,Both,All Ages,Cardiovascular diseases,Number,2010,33888.76758,35418.45092,31116.06394
+Deaths,Cuba,Both,All Ages,Cardiovascular diseases,Percent,2010,0.384032138,0.401030793,0.351879631
+Deaths,Cuba,Both,All Ages,Cardiovascular diseases,Rate,2010,295.558591,308.8996206,271.376644
+Deaths,Cuba,Both,All Ages,Chronic respiratory diseases,Number,2010,3639.894333,3930.27219,3048.557865
+Deaths,Cuba,Both,All Ages,Chronic respiratory diseases,Percent,2010,0.041247716,0.044542938,0.034521459
+Deaths,Cuba,Both,All Ages,Chronic respiratory diseases,Rate,2010,31.74509187,34.27760269,26.58779092
+Deaths,Cuba,Both,All Ages,Diabetes mellitus,Number,2011,1659.354825,1750.774686,1532.987701
+Deaths,Cuba,Both,All Ages,Diabetes mellitus,Percent,2011,0.019380579,0.020392763,0.017917342
+Deaths,Cuba,Both,All Ages,Diabetes mellitus,Rate,2011,14.47023625,15.26745392,13.3682645
+Deaths,Cuba,Both,All Ages,Total cancers,Number,2010,22863.53135,23699.01432,21491.97168
+Deaths,Cuba,Both,All Ages,Total cancers,Percent,2010,0.259093057,0.267797618,0.243712198
+Deaths,Cuba,Both,All Ages,Total cancers,Rate,2010,199.40274,206.6893481,187.4407753
+Deaths,Cuba,Both,All Ages,Cardiovascular diseases,Number,2011,32388.49457,34001.26019,29436.66474
+Deaths,Cuba,Both,All Ages,Cardiovascular diseases,Percent,2011,0.378287254,0.396766961,0.3450836
+Deaths,Cuba,Both,All Ages,Cardiovascular diseases,Rate,2011,282.4405974,296.5045572,256.6994633
+Deaths,Cuba,Both,All Ages,Diabetes mellitus,Number,2010,1754.720992,1844.649172,1629.919978
+Deaths,Cuba,Both,All Ages,Diabetes mellitus,Percent,2010,0.019884774,0.020869084,0.018513038
+Deaths,Cuba,Both,All Ages,Diabetes mellitus,Rate,2010,15.30368027,16.0879828,14.21523668
+Deaths,Cuba,Both,All Ages,Chronic respiratory diseases,Number,2011,3586.792746,3890.013067,2970.889548
+Deaths,Cuba,Both,All Ages,Chronic respiratory diseases,Percent,2011,0.041892158,0.045355214,0.034837029
+Deaths,Cuba,Both,All Ages,Chronic respiratory diseases,Rate,2011,31.27826407,33.92246627,25.9073424
+Deaths,Cuba,Both,All Ages,Total cancers,Number,2011,22313.39665,23252.05912,20837.12978
+Deaths,Cuba,Both,All Ages,Total cancers,Percent,2011,0.260610758,0.270641564,0.243491171
+Deaths,Cuba,Both,All Ages,Total cancers,Rate,2011,194.581723,202.7672343,181.7080868
+Deaths,Cuba,Both,All Ages,Diabetes mellitus,Number,2013,1719.270737,1810.354886,1586.95251
+Deaths,Cuba,Both,All Ages,Diabetes mellitus,Percent,2013,0.018724523,0.019704296,0.017299721
+Deaths,Cuba,Both,All Ages,Diabetes mellitus,Rate,2013,14.99712367,15.79164673,13.84291755
+Deaths,Cuba,Both,All Ages,Cardiovascular diseases,Number,2013,34308.15013,36034.09123,31190.00813
+Deaths,Cuba,Both,All Ages,Cardiovascular diseases,Percent,2013,0.373649593,0.391657868,0.340009633
+Deaths,Cuba,Both,All Ages,Cardiovascular diseases,Rate,2013,299.2684976,314.3238065,272.0690809
+Deaths,Cuba,Both,All Ages,Chronic respiratory diseases,Number,2013,3945.662042,4275.527361,3237.720831
+Deaths,Cuba,Both,All Ages,Chronic respiratory diseases,Percent,2013,0.042972767,0.046564939,0.034995382
+Deaths,Cuba,Both,All Ages,Chronic respiratory diseases,Rate,2013,34.41783794,37.29523873,28.24249763
+Deaths,Cuba,Both,All Ages,Total cancers,Number,2013,23966.93256,24872.1945,22463.1753
+Deaths,Cuba,Both,All Ages,Total cancers,Percent,2013,0.261023701,0.270107618,0.244894587
+Deaths,Cuba,Both,All Ages,Total cancers,Rate,2013,209.0625076,216.9590681,195.9452986
+Deaths,Cuba,Both,All Ages,Cardiovascular diseases,Number,2012,33478.32636,35117.30325,30384.50046
+Deaths,Cuba,Both,All Ages,Cardiovascular diseases,Percent,2012,0.375095638,0.393319788,0.341703183
+Deaths,Cuba,Both,All Ages,Cardiovascular diseases,Rate,2012,291.9406354,306.2329854,264.9615837
+Deaths,Cuba,Both,All Ages,Chronic respiratory diseases,Number,2012,3770.814227,4084.959447,3112.961547
+Deaths,Cuba,Both,All Ages,Chronic respiratory diseases,Percent,2012,0.042248934,0.045723448,0.034911647
+Deaths,Cuba,Both,All Ages,Chronic respiratory diseases,Rate,2012,32.88258468,35.62202136,27.14592009
+Deaths,Cuba,Both,All Ages,Total cancers,Number,2012,23324.91418,24222.00033,21868.47766
+Deaths,Cuba,Both,All Ages,Total cancers,Percent,2012,0.26133488,0.270530316,0.245366683
+Deaths,Cuba,Both,All Ages,Total cancers,Rate,2012,203.3999607,211.22281,190.6994154
+Deaths,Cuba,Both,All Ages,Diabetes mellitus,Number,2012,1695.656441,1785.3029,1562.40412
+Deaths,Cuba,Both,All Ages,Diabetes mellitus,Percent,2012,0.018998246,0.019991766,0.017573777
+Deaths,Cuba,Both,All Ages,Diabetes mellitus,Rate,2012,14.78661189,15.56835481,13.62461333
+Deaths,Cuba,Both,All Ages,Chronic respiratory diseases,Number,2014,4124.266812,4492.812985,3342.356077
+Deaths,Cuba,Both,All Ages,Chronic respiratory diseases,Percent,2014,0.043434941,0.04722806,0.035414205
+Deaths,Cuba,Both,All Ages,Chronic respiratory diseases,Rate,2014,35.9913763,39.20758044,29.16784989
+Deaths,Cuba,Both,All Ages,Cardiovascular diseases,Number,2014,35491.57755,37269.37487,32307.79047
+Deaths,Cuba,Both,All Ages,Cardiovascular diseases,Percent,2014,0.373777238,0.391545266,0.339282191
+Deaths,Cuba,Both,All Ages,Cardiovascular diseases,Rate,2014,309.7255297,325.2398927,281.9414692
+Deaths,Cuba,Both,All Ages,Total cancers,Number,2014,24689.35937,25676.10861,23116.36339
+Deaths,Cuba,Both,All Ages,Total cancers,Percent,2014,0.260015282,0.26921348,0.243617288
+Deaths,Cuba,Both,All Ages,Total cancers,Rate,2014,215.4574532,224.0685506,201.7303369
+Deaths,Cuba,Both,All Ages,Diabetes mellitus,Number,2014,1741.926536,1835.862088,1602.784277
+Deaths,Cuba,Both,All Ages,Diabetes mellitus,Percent,2014,0.018344895,0.019305731,0.016891967
+Deaths,Cuba,Both,All Ages,Diabetes mellitus,Rate,2014,15.20132821,16.02107872,13.98707083
+Deaths,Cuba,Both,All Ages,Diabetes mellitus,Number,2015,1817.989086,1918.931088,1683.067641
+Deaths,Cuba,Both,All Ages,Diabetes mellitus,Percent,2015,0.018260992,0.01922415,0.016866356
+Deaths,Cuba,Both,All Ages,Diabetes mellitus,Rate,2015,15.87607459,16.75757756,14.69783709
+Deaths,Cuba,Both,All Ages,Chronic respiratory diseases,Number,2015,4373.648703,4795.076264,3547.65075
+Deaths,Cuba,Both,All Ages,Chronic respiratory diseases,Percent,2015,0.043931168,0.048056819,0.0355274
+Deaths,Cuba,Both,All Ages,Chronic respiratory diseases,Rate,2015,38.19405386,41.87428244,30.98080642
+Deaths,Cuba,Both,All Ages,Total cancers,Number,2015,25768.96156,26766.59612,24093.38
+Deaths,Cuba,Both,All Ages,Total cancers,Percent,2015,0.25883726,0.268013335,0.242671798
+Deaths,Cuba,Both,All Ages,Total cancers,Rate,2015,225.03433,233.7464399,210.4018671
+Deaths,Cuba,Both,All Ages,Cardiovascular diseases,Number,2015,37170.16572,39028.04823,33867.38296
+Deaths,Cuba,Both,All Ages,Cardiovascular diseases,Percent,2015,0.373358109,0.391217178,0.338778976
+Deaths,Cuba,Both,All Ages,Cardiovascular diseases,Rate,2015,324.5983863,340.8228409,295.7559549
+Deaths,Cuba,Both,All Ages,Chronic respiratory diseases,Number,2016,4443.821137,4899.118384,3600.495374
+Deaths,Cuba,Both,All Ages,Chronic respiratory diseases,Percent,2016,0.044053585,0.048435578,0.035604077
+Deaths,Cuba,Both,All Ages,Chronic respiratory diseases,Rate,2016,38.8547135,42.83562172,31.48106368
+Deaths,Cuba,Both,All Ages,Cardiovascular diseases,Number,2016,37558.88717,39457.76826,34050.16264
+Deaths,Cuba,Both,All Ages,Cardiovascular diseases,Percent,2016,0.372323564,0.390198223,0.337785541
+Deaths,Cuba,Both,All Ages,Cardiovascular diseases,Rate,2016,328.3975109,345.0004476,297.718849
+Deaths,Cuba,Both,All Ages,Chronic respiratory diseases,Number,2017,4622.264869,5151.9424,3725.954335
+Deaths,Cuba,Both,All Ages,Chronic respiratory diseases,Percent,2017,0.043778776,0.048639284,0.035274511
+Deaths,Cuba,Both,All Ages,Chronic respiratory diseases,Rate,2017,40.492762,45.13293447,32.64074786
+Deaths,Cuba,Both,All Ages,Diabetes mellitus,Number,2017,1970.868426,2107.180203,1803.42659
+Deaths,Cuba,Both,All Ages,Diabetes mellitus,Percent,2017,0.01866665,0.01996269,0.017104829
+Deaths,Cuba,Both,All Ages,Diabetes mellitus,Rate,2017,17.26554154,18.45968348,15.79868869
+Deaths,Cuba,Both,All Ages,Diabetes mellitus,Number,2016,1843.66123,1953.696412,1689.994719
+Deaths,Cuba,Both,All Ages,Diabetes mellitus,Percent,2016,0.018276165,0.019318804,0.016833403
+Deaths,Cuba,Both,All Ages,Diabetes mellitus,Rate,2016,16.12011975,17.08221641,14.77653096
+Deaths,Cuba,Both,All Ages,Total cancers,Number,2017,27407.89182,28720.5807,25645.41993
+Deaths,Cuba,Both,All Ages,Total cancers,Percent,2017,0.259585877,0.271095411,0.243063185
+Deaths,Cuba,Both,All Ages,Total cancers,Rate,2017,240.1033416,251.6029851,224.6634313
+Deaths,Cuba,Both,All Ages,Total cancers,Number,2016,26224.92004,27248.60992,24569.77332
+Deaths,Cuba,Both,All Ages,Total cancers,Percent,2016,0.259970526,0.270033724,0.242929237
+Deaths,Cuba,Both,All Ages,Total cancers,Rate,2016,229.2985527,238.2492227,214.8267164
+Deaths,Cuba,Both,All Ages,Cardiovascular diseases,Number,2017,39648.01691,41672.10636,36095.6579
+Deaths,Cuba,Both,All Ages,Cardiovascular diseases,Percent,2017,0.375515509,0.394694392,0.341041648
+Deaths,Cuba,Both,All Ages,Cardiovascular diseases,Rate,2017,347.3313967,365.0631742,316.2114085
+Deaths,Cuba,Both,All Ages,Chronic respiratory diseases,Number,2018,4684.401712,5471.655791,3716.754001
+Deaths,Cuba,Both,All Ages,Chronic respiratory diseases,Percent,2018,0.043535103,0.048816479,0.035001555
+Deaths,Cuba,Both,All Ages,Chronic respiratory diseases,Rate,2018,41.13762174,48.05115361,32.63990358
+Deaths,Cuba,Both,All Ages,Total cancers,Number,2018,27932.33271,31212.10945,24631.08791
+Deaths,Cuba,Both,All Ages,Total cancers,Percent,2018,0.25952016,0.271745784,0.242465347
+Deaths,Cuba,Both,All Ages,Total cancers,Rate,2018,245.2970108,274.0994542,216.3060386
+Deaths,Cuba,Both,All Ages,Diabetes mellitus,Number,2018,2037.197643,2305.598083,1769.235918
+Deaths,Cuba,Both,All Ages,Diabetes mellitus,Percent,2018,0.018930324,0.020422249,0.017290636
+Deaths,Cuba,Both,All Ages,Diabetes mellitus,Rate,2018,17.89032436,20.24737153,15.53712992
+Deaths,Cuba,Both,All Ages,Cardiovascular diseases,Number,2018,40510.48931,44877.87701,35279.81704
+Deaths,Cuba,Both,All Ages,Cardiovascular diseases,Percent,2018,0.37649883,0.396871448,0.342252725
+Deaths,Cuba,Both,All Ages,Cardiovascular diseases,Rate,2018,355.7562499,394.1099083,309.8213727
+Deaths,Cuba,Both,All Ages,Total cancers,Number,2019,27726.16257,32941.36147,22740.44565
+Deaths,Cuba,Both,All Ages,Total cancers,Percent,2019,0.261463549,0.273233324,0.243638876
+Deaths,Cuba,Both,All Ages,Total cancers,Rate,2019,244.1003437,290.014806,200.2062343
+Deaths,Cuba,Both,All Ages,Diabetes mellitus,Number,2019,2019.889582,2449.689755,1644.802541
+Deaths,Cuba,Both,All Ages,Diabetes mellitus,Percent,2019,0.019055957,0.020494626,0.017424298
+Deaths,Cuba,Both,All Ages,Diabetes mellitus,Rate,2019,17.78305021,21.56699867,14.48079461
+Deaths,Cuba,Both,All Ages,Cardiovascular diseases,Number,2019,39754.57567,47383.55844,33275.92271
+Deaths,Cuba,Both,All Ages,Cardiovascular diseases,Percent,2019,0.375221624,0.395035848,0.33994664
+Deaths,Cuba,Both,All Ages,Cardiovascular diseases,Rate,2019,349.9981493,417.1634957,292.9602735
+Deaths,Cuba,Both,All Ages,Chronic respiratory diseases,Number,2019,4586.190616,5602.985282,3548.802836
+Deaths,Cuba,Both,All Ages,Chronic respiratory diseases,Percent,2019,0.043279315,0.048851317,0.034771787
+Deaths,Cuba,Both,All Ages,Chronic respiratory diseases,Rate,2019,40.37669125,49.32852247,31.24355886
+Deaths,Nigeria,Both,All Ages,Chronic respiratory diseases,Number,2009,22529.08029,27933.71443,17930.59373
+Deaths,Nigeria,Both,All Ages,Chronic respiratory diseases,Percent,2009,0.012979754,0.015306091,0.010669559
+Deaths,Nigeria,Both,All Ages,Chronic respiratory diseases,Rate,2009,13.90055403,17.23524004,11.06326507
+Deaths,Nigeria,Both,All Ages,Cardiovascular diseases,Number,2009,135318.2828,163297.3869,105872.7249
+Deaths,Nigeria,Both,All Ages,Cardiovascular diseases,Percent,2009,0.077982971,0.090091774,0.062847621
+Deaths,Nigeria,Both,All Ages,Cardiovascular diseases,Rate,2009,83.49205017,100.7552959,65.32399523
+Deaths,Nigeria,Both,All Ages,Total cancers,Number,2009,58915.90581,73712.7817,45305.69345
+Deaths,Nigeria,Both,All Ages,Total cancers,Percent,2009,0.03393543,0.040378982,0.02696422
+Deaths,Nigeria,Both,All Ages,Total cancers,Rate,2009,36.35140545,45.4811511,27.95383706
+Deaths,Nigeria,Both,All Ages,Diabetes mellitus,Number,2009,19485.14349,23955.45508,15527.24195
+Deaths,Nigeria,Both,All Ages,Diabetes mellitus,Percent,2009,0.011225088,0.013127042,0.009288679
+Deaths,Nigeria,Both,All Ages,Diabetes mellitus,Rate,2009,12.02242996,14.78063434,9.580385126
+Deaths,Nigeria,Both,All Ages,Diabetes mellitus,Number,2010,19987.77477,24555.03722,15954.95506
+Deaths,Nigeria,Both,All Ages,Diabetes mellitus,Percent,2010,0.011615125,0.013717808,0.009723503
+Deaths,Nigeria,Both,All Ages,Diabetes mellitus,Rate,2010,11.9726308,14.70841043,9.556981134
+Deaths,Nigeria,Both,All Ages,Cardiovascular diseases,Number,2010,137025.8983,164232.3173,106920.5921
+Deaths,Nigeria,Both,All Ages,Cardiovascular diseases,Percent,2010,0.079662199,0.09220868,0.063731375
+Deaths,Nigeria,Both,All Ages,Cardiovascular diseases,Rate,2010,82.07819575,98.37477773,64.04518703
+Deaths,Nigeria,Both,All Ages,Chronic respiratory diseases,Number,2010,22819.80913,28054.6809,17886.17655
+Deaths,Nigeria,Both,All Ages,Chronic respiratory diseases,Percent,2010,0.013262434,0.015632775,0.011004505
+Deaths,Nigeria,Both,All Ages,Chronic respiratory diseases,Rate,2010,13.66901282,16.80468889,10.71377833
+Deaths,Nigeria,Both,All Ages,Diabetes mellitus,Number,2011,20620.67758,25495.7557,16787.80838
+Deaths,Nigeria,Both,All Ages,Diabetes mellitus,Percent,2011,0.012087794,0.014419889,0.010180655
+Deaths,Nigeria,Both,All Ages,Diabetes mellitus,Rate,2011,11.99478268,14.83055287,9.765252018
+Deaths,Nigeria,Both,All Ages,Total cancers,Number,2010,61386.14657,76415.56063,47629.46852
+Deaths,Nigeria,Both,All Ages,Total cancers,Percent,2010,0.035668206,0.042620891,0.028824797
+Deaths,Nigeria,Both,All Ages,Total cancers,Rate,2010,36.77015963,45.77274385,28.52994134
+Deaths,Nigeria,Both,All Ages,Chronic respiratory diseases,Number,2011,23124.9804,28665.84365,18615.62044
+Deaths,Nigeria,Both,All Ages,Chronic respiratory diseases,Percent,2011,0.01355944,0.016193439,0.01132038
+Deaths,Nigeria,Both,All Ages,Chronic respiratory diseases,Rate,2011,13.4515034,16.67455222,10.82846676
+Deaths,Nigeria,Both,All Ages,Total cancers,Number,2011,64297.35951,80096.1991,50267.96639
+Deaths,Nigeria,Both,All Ages,Total cancers,Percent,2011,0.037683701,0.045298147,0.030584962
+Deaths,Nigeria,Both,All Ages,Total cancers,Rate,2011,37.40094629,46.5909279,29.24022893
+Deaths,Nigeria,Both,All Ages,Cardiovascular diseases,Number,2011,139912.4261,170421.5331,109260.4742
+Deaths,Nigeria,Both,All Ages,Cardiovascular diseases,Percent,2011,0.082040372,0.096086449,0.065697832
+Deaths,Nigeria,Both,All Ages,Cardiovascular diseases,Rate,2011,81.38525708,99.13201186,63.55541128
+Deaths,Nigeria,Both,All Ages,Cardiovascular diseases,Number,2012,143645.3129,172442.0452,109946.6276
+Deaths,Nigeria,Both,All Ages,Cardiovascular diseases,Percent,2012,0.084811566,0.098540145,0.066426327
+Deaths,Nigeria,Both,All Ages,Cardiovascular diseases,Rate,2012,81.16679206,97.43838721,62.12534803
+Deaths,Nigeria,Both,All Ages,Diabetes mellitus,Number,2012,21335.5758,26184.31905,17229.72396
+Deaths,Nigeria,Both,All Ages,Diabetes mellitus,Percent,2012,0.012593959,0.014850077,0.010505932
+Deaths,Nigeria,Both,All Ages,Diabetes mellitus,Rate,2012,12.05566829,14.79545093,9.735656481
+Deaths,Nigeria,Both,All Ages,Chronic respiratory diseases,Number,2012,23577.14642,28540.8882,19055.49072
+Deaths,Nigeria,Both,All Ages,Chronic respiratory diseases,Percent,2012,0.013918417,0.016412592,0.011525757
+Deaths,Nigeria,Both,All Ages,Chronic respiratory diseases,Rate,2012,13.3222679,16.12703046,10.76730609
+Deaths,Nigeria,Both,All Ages,Diabetes mellitus,Number,2013,21834.95884,26995.97927,17527.254
+Deaths,Nigeria,Both,All Ages,Diabetes mellitus,Percent,2013,0.012946755,0.015314862,0.010702338
+Deaths,Nigeria,Both,All Ages,Diabetes mellitus,Rate,2013,11.98882296,14.82256131,9.623610777
+Deaths,Nigeria,Both,All Ages,Total cancers,Number,2012,67519.49986,83852.99078,53681.36633
+Deaths,Nigeria,Both,All Ages,Total cancers,Percent,2012,0.03985013,0.047599068,0.032677401
+Deaths,Nigeria,Both,All Ages,Total cancers,Rate,2012,38.15189715,47.3811371,30.33265903
+Deaths,Nigeria,Both,All Ages,Cardiovascular diseases,Number,2013,146743.7944,179997.5756,113795.2112
+Deaths,Nigeria,Both,All Ages,Cardiovascular diseases,Percent,2013,0.087034138,0.101669165,0.069444616
+Deaths,Nigeria,Both,All Ages,Cardiovascular diseases,Rate,2013,80.5719573,98.83046185,62.48102643
+Deaths,Nigeria,Both,All Ages,Chronic respiratory diseases,Number,2013,23880.3951,29553.79805,18852.20589
+Deaths,Nigeria,Both,All Ages,Chronic respiratory diseases,Percent,2013,0.014159011,0.01687696,0.011590194
+Deaths,Nigeria,Both,All Ages,Chronic respiratory diseases,Rate,2013,13.11190148,16.2269714,10.35109617
+Deaths,Nigeria,Both,All Ages,Total cancers,Number,2013,70109.61931,86197.60618,55863.11613
+Deaths,Nigeria,Both,All Ages,Total cancers,Percent,2013,0.041560514,0.049356184,0.034303044
+Deaths,Nigeria,Both,All Ages,Total cancers,Rate,2013,38.49477435,47.32813318,30.67251073
+Deaths,Nigeria,Both,All Ages,Cardiovascular diseases,Number,2014,148499.4419,178157.1938,117052.1421
+Deaths,Nigeria,Both,All Ages,Cardiovascular diseases,Percent,2014,0.088296959,0.102264394,0.071564139
+Deaths,Nigeria,Both,All Ages,Cardiovascular diseases,Rate,2014,79.25764659,95.08668666,62.47348266
+Deaths,Nigeria,Both,All Ages,Chronic respiratory diseases,Number,2014,23860.15193,29305.07801,19104.94356
+Deaths,Nigeria,Both,All Ages,Chronic respiratory diseases,Percent,2014,0.014183975,0.016899156,0.011646912
+Deaths,Nigeria,Both,All Ages,Chronic respiratory diseases,Rate,2014,12.73472455,15.64080973,10.19675795
+Deaths,Nigeria,Both,All Ages,Total cancers,Number,2014,71925.07796,87613.94747,56981.02909
+Deaths,Nigeria,Both,All Ages,Total cancers,Percent,2014,0.042752776,0.050336008,0.03505574
+Deaths,Nigeria,Both,All Ages,Total cancers,Rate,2014,38.38810662,46.76162546,30.41211608
+Deaths,Nigeria,Both,All Ages,Cardiovascular diseases,Number,2015,153963.477,187351.7271,124251.7474
+Deaths,Nigeria,Both,All Ages,Cardiovascular diseases,Percent,2015,0.09238944,0.107851273,0.077373428
+Deaths,Nigeria,Both,All Ages,Cardiovascular diseases,Rate,2015,79.90696633,97.23545116,64.48659373
+Deaths,Nigeria,Both,All Ages,Chronic respiratory diseases,Number,2015,23953.39774,29411.33299,18941.2477
+Deaths,Nigeria,Both,All Ages,Chronic respiratory diseases,Percent,2015,0.014371862,0.017085466,0.011703996
+Deaths,Nigeria,Both,All Ages,Chronic respiratory diseases,Rate,2015,12.43180125,15.26446687,9.830497933
+Deaths,Nigeria,Both,All Ages,Diabetes mellitus,Number,2014,22171.016,26998.62696,17759.05977
+Deaths,Nigeria,Both,All Ages,Diabetes mellitus,Percent,2014,0.013179766,0.015508414,0.011022082
+Deaths,Nigeria,Both,All Ages,Diabetes mellitus,Rate,2014,11.83319296,14.40980253,9.478428098
+Deaths,Nigeria,Both,All Ages,Diabetes mellitus,Number,2015,22564.671,27931.96936,18065.09134
+Deaths,Nigeria,Both,All Ages,Diabetes mellitus,Percent,2015,0.013538789,0.016040624,0.011212425
+Deaths,Nigeria,Both,All Ages,Diabetes mellitus,Rate,2015,11.71105278,14.4966779,9.375773223
+Deaths,Nigeria,Both,All Ages,Total cancers,Number,2015,73678.80447,90916.28004,57944.95491
+Deaths,Nigeria,Both,All Ages,Total cancers,Percent,2015,0.044196165,0.052710625,0.036110463
+Deaths,Nigeria,Both,All Ages,Total cancers,Rate,2015,38.23926207,47.18550314,30.07340215
+Deaths,Nigeria,Both,All Ages,Chronic respiratory diseases,Number,2016,24038.37122,29434.78771,19013.30367
+Deaths,Nigeria,Both,All Ages,Chronic respiratory diseases,Percent,2016,0.0146342,0.017355988,0.01196002
+Deaths,Nigeria,Both,All Ages,Chronic respiratory diseases,Rate,2016,12.13590437,14.86031501,9.598971286
+Deaths,Nigeria,Both,All Ages,Diabetes mellitus,Number,2016,22963.97483,28344.92164,18190.29991
+Deaths,Nigeria,Both,All Ages,Diabetes mellitus,Percent,2016,0.013979014,0.016712452,0.011566703
+Deaths,Nigeria,Both,All Ages,Diabetes mellitus,Rate,2016,11.59348942,14.31009011,9.183473295
+Deaths,Nigeria,Both,All Ages,Cardiovascular diseases,Number,2016,155265.9983,187600.2214,124885.8119
+Deaths,Nigeria,Both,All Ages,Cardiovascular diseases,Percent,2016,0.094533148,0.110340404,0.079015295
+Deaths,Nigeria,Both,All Ages,Cardiovascular diseases,Rate,2016,78.3868961,94.71100707,63.04929133
+Deaths,Nigeria,Both,All Ages,Chronic respiratory diseases,Number,2017,24188.66007,29688.89173,19404.90658
+Deaths,Nigeria,Both,All Ages,Chronic respiratory diseases,Percent,2017,0.014918986,0.017734477,0.012150281
+Deaths,Nigeria,Both,All Ages,Chronic respiratory diseases,Rate,2017,11.88326098,14.58538206,9.533127032
+Deaths,Nigeria,Both,All Ages,Cardiovascular diseases,Number,2018,160449.2787,191971.9312,128496.5893
+Deaths,Nigeria,Both,All Ages,Cardiovascular diseases,Percent,2018,0.099962832,0.117031329,0.082723669
+Deaths,Nigeria,Both,All Ages,Cardiovascular diseases,Rate,2018,76.72820129,91.80260014,61.4481551
+Deaths,Nigeria,Both,All Ages,Total cancers,Number,2016,75543.93488,93974.32631,59423.72774
+Deaths,Nigeria,Both,All Ages,Total cancers,Percent,2016,0.045969976,0.055108833,0.037319879
+Deaths,Nigeria,Both,All Ages,Total cancers,Rate,2016,38.13877242,47.44345725,30.00039688
+Deaths,Nigeria,Both,All Ages,Chronic respiratory diseases,Number,2018,24304.22914,30007.34572,19255.59918
+Deaths,Nigeria,Both,All Ages,Chronic respiratory diseases,Percent,2018,0.015138613,0.017992339,0.012104694
+Deaths,Nigeria,Both,All Ages,Chronic respiratory diseases,Rate,2018,11.62248781,14.34976636,9.208190286
+Deaths,Nigeria,Both,All Ages,Diabetes mellitus,Number,2017,23373.04797,28445.31588,18704.06159
+Deaths,Nigeria,Both,All Ages,Diabetes mellitus,Percent,2017,0.014415171,0.017290755,0.011940109
+Deaths,Nigeria,Both,All Ages,Diabetes mellitus,Rate,2017,11.48257192,13.97444552,9.188820074
+Deaths,Nigeria,Both,All Ages,Total cancers,Number,2018,79148.2937,99014.17491,62217.48238
+Deaths,Nigeria,Both,All Ages,Total cancers,Percent,2018,0.04928314,0.059164935,0.038682525
+Deaths,Nigeria,Both,All Ages,Total cancers,Rate,2018,37.84938304,47.34941536,29.75292596
+Deaths,Nigeria,Both,All Ages,Diabetes mellitus,Number,2018,23877.20364,29292.94821,19003.61216
+Deaths,Nigeria,Both,All Ages,Diabetes mellitus,Percent,2018,0.014874334,0.017684485,0.0122418
+Deaths,Nigeria,Both,All Ages,Diabetes mellitus,Rate,2018,11.4182806,14.00813543,9.08768796
+Deaths,Nigeria,Both,All Ages,Total cancers,Number,2017,77289.08233,95892.93201,60166.1963
+Deaths,Nigeria,Both,All Ages,Total cancers,Percent,2017,0.047653551,0.056506111,0.03830513
+Deaths,Nigeria,Both,All Ages,Total cancers,Rate,2017,37.97012044,47.10970901,29.55809089
+Deaths,Nigeria,Both,All Ages,Cardiovascular diseases,Number,2017,157966.1629,189475.4372,128958.873
+Deaths,Nigeria,Both,All Ages,Cardiovascular diseases,Percent,2017,0.097442638,0.114016963,0.081470581
+Deaths,Nigeria,Both,All Ages,Cardiovascular diseases,Rate,2017,77.60467651,93.08436526,63.35414774
+Deaths,Nigeria,Both,All Ages,Chronic respiratory diseases,Number,2019,24505.92168,30356.44297,19594.92375
+Deaths,Nigeria,Both,All Ages,Chronic respiratory diseases,Percent,2019,0.015398141,0.018359931,0.012342311
+Deaths,Nigeria,Both,All Ages,Chronic respiratory diseases,Rate,2019,11.40745267,14.13085747,9.121393929
+Deaths,Nigeria,Both,All Ages,Total cancers,Number,2019,81229.58504,103120.2919,62619.38785
+Deaths,Nigeria,Both,All Ages,Total cancers,Percent,2019,0.051008566,0.06162981,0.040627707
+Deaths,Nigeria,Both,All Ages,Total cancers,Rate,2019,37.81219327,48.00226919,29.14918739
+Deaths,Nigeria,Both,All Ages,Diabetes mellitus,Number,2019,24473.48642,30351.36899,19471.36744
+Deaths,Nigeria,Both,All Ages,Diabetes mellitus,Percent,2019,0.015376316,0.018591114,0.012494438
+Deaths,Nigeria,Both,All Ages,Diabetes mellitus,Rate,2019,11.39235413,14.12849554,9.063878741
+Deaths,Nigeria,Both,All Ages,Cardiovascular diseases,Number,2019,163496.1104,199017.5441,130397.309
+Deaths,Nigeria,Both,All Ages,Cardiovascular diseases,Percent,2019,0.102732249,0.12042829,0.083703986
+Deaths,Nigeria,Both,All Ages,Cardiovascular diseases,Rate,2019,76.10707996,92.64222928,60.69966071
+Deaths,Oman,Both,All Ages,Chronic respiratory diseases,Number,2009,244.8947451,273.4599457,184.6916004
+Deaths,Oman,Both,All Ages,Chronic respiratory diseases,Percent,2009,0.022258635,0.024630704,0.016953582
+Deaths,Oman,Both,All Ages,Chronic respiratory diseases,Rate,2009,9.110596194,10.17328134,6.870913424
+Deaths,Oman,Both,All Ages,Total cancers,Number,2009,1074.721036,1135.79471,1013.662023
+Deaths,Oman,Both,All Ages,Total cancers,Percent,2009,0.097678476,0.101462206,0.092303269
+Deaths,Oman,Both,All Ages,Total cancers,Rate,2009,39.98186803,42.25393631,37.71034515
+Deaths,Oman,Both,All Ages,Cardiovascular diseases,Number,2009,4533.963775,4823.926757,4306.747104
+Deaths,Oman,Both,All Ages,Cardiovascular diseases,Percent,2009,0.412096224,0.438836433,0.395326127
+Deaths,Oman,Both,All Ages,Cardiovascular diseases,Rate,2009,168.6729256,179.4601543,160.2199906
+Deaths,Oman,Both,All Ages,Diabetes mellitus,Number,2009,575.4100187,625.403854,528.7722993
+Deaths,Oman,Both,All Ages,Diabetes mellitus,Percent,2009,0.052297009,0.056362784,0.048361385
+Deaths,Oman,Both,All Ages,Diabetes mellitus,Rate,2009,21.40645494,23.26633007,19.67143433
+Deaths,Oman,Both,All Ages,Chronic respiratory diseases,Number,2010,247.9001799,275.6217554,191.1620448
+Deaths,Oman,Both,All Ages,Chronic respiratory diseases,Percent,2010,0.021792549,0.024098023,0.016778915
+Deaths,Oman,Both,All Ages,Chronic respiratory diseases,Rate,2010,8.735158538,9.711972501,6.735899784
+Deaths,Oman,Both,All Ages,Diabetes mellitus,Number,2010,603.0610303,657.3941335,549.4340665
+Deaths,Oman,Both,All Ages,Diabetes mellitus,Percent,2010,0.053011092,0.057134756,0.048751576
+Deaths,Oman,Both,All Ages,Diabetes mellitus,Rate,2010,21.24981801,23.16433163,19.36018634
+Deaths,Oman,Both,All Ages,Total cancers,Number,2010,1107.928454,1167.822406,1038.482223
+Deaths,Oman,Both,All Ages,Total cancers,Percent,2010,0.097390877,0.101178433,0.092056256
+Deaths,Oman,Both,All Ages,Total cancers,Rate,2010,39.03962758,41.15008657,36.59257877
+Deaths,Oman,Both,All Ages,Cardiovascular diseases,Number,2010,4697.904758,5005.814325,4463.572411
+Deaths,Oman,Both,All Ages,Cardiovascular diseases,Percent,2010,0.412973041,0.439728186,0.396066208
+Deaths,Oman,Both,All Ages,Cardiovascular diseases,Rate,2010,165.538173,176.3878581,157.2810987
+Deaths,Oman,Both,All Ages,Cardiovascular diseases,Number,2011,4890.853394,5249.783751,4655.670535
+Deaths,Oman,Both,All Ages,Cardiovascular diseases,Percent,2011,0.405085073,0.432377224,0.388334515
+Deaths,Oman,Both,All Ages,Cardiovascular diseases,Rate,2011,154.1230743,165.4338713,146.7118717
+Deaths,Oman,Both,All Ages,Chronic respiratory diseases,Number,2011,255.2561447,284.1363255,197.3839164
+Deaths,Oman,Both,All Ages,Chronic respiratory diseases,Percent,2011,0.021143115,0.023409569,0.016267488
+Deaths,Oman,Both,All Ages,Chronic respiratory diseases,Rate,2011,8.04376222,8.953849252,6.220062955
+Deaths,Oman,Both,All Ages,Total cancers,Number,2011,1184.164976,1244.872595,1109.490969
+Deaths,Oman,Both,All Ages,Total cancers,Percent,2011,0.098078895,0.101949534,0.092231075
+Deaths,Oman,Both,All Ages,Total cancers,Rate,2011,37.31601252,39.22906209,34.96284703
+Deaths,Oman,Both,All Ages,Diabetes mellitus,Number,2011,640.7316515,698.435888,582.3921256
+Deaths,Oman,Both,All Ages,Diabetes mellitus,Percent,2011,0.053068203,0.057518135,0.048559891
+Deaths,Oman,Both,All Ages,Diabetes mellitus,Rate,2011,20.1910636,22.00946902,18.35263861
+Deaths,Oman,Both,All Ages,Cardiovascular diseases,Number,2013,5067.468677,5456.102806,4785.98102
+Deaths,Oman,Both,All Ages,Cardiovascular diseases,Percent,2013,0.400977951,0.429086175,0.381932988
+Deaths,Oman,Both,All Ages,Cardiovascular diseases,Rate,2013,131.893226,142.0083766,124.5668235
+Deaths,Oman,Both,All Ages,Chronic respiratory diseases,Number,2013,262.2654014,294.3135597,202.7616076
+Deaths,Oman,Both,All Ages,Chronic respiratory diseases,Percent,2013,0.020752408,0.023070435,0.015999359
+Deaths,Oman,Both,All Ages,Chronic respiratory diseases,Rate,2013,6.826096433,7.66022788,5.277365139
+Deaths,Oman,Both,All Ages,Total cancers,Number,2012,1250.986569,1320.420924,1155.462266
+Deaths,Oman,Both,All Ages,Total cancers,Percent,2012,0.099906833,0.104542173,0.092492303
+Deaths,Oman,Both,All Ages,Total cancers,Rate,2012,34.7474629,36.67607486,32.09417528
+Deaths,Oman,Both,All Ages,Total cancers,Number,2013,1265.673626,1348.674527,1161.953536
+Deaths,Oman,Both,All Ages,Total cancers,Percent,2013,0.100151364,0.105695126,0.092054913
+Deaths,Oman,Both,All Ages,Total cancers,Rate,2013,32.94224162,35.10254242,30.24267343
+Deaths,Oman,Both,All Ages,Chronic respiratory diseases,Number,2012,258.4173513,288.5648085,200.4046682
+Deaths,Oman,Both,All Ages,Chronic respiratory diseases,Percent,2012,0.020638262,0.022925325,0.015844872
+Deaths,Oman,Both,All Ages,Chronic respiratory diseases,Rate,2012,7.177812734,8.015189948,5.566449667
+Deaths,Oman,Both,All Ages,Diabetes mellitus,Number,2012,663.7291026,728.9763596,598.1153147
+Deaths,Oman,Both,All Ages,Diabetes mellitus,Percent,2012,0.053007428,0.057916381,0.047853814
+Deaths,Oman,Both,All Ages,Diabetes mellitus,Rate,2012,18.43577136,20.2480823,16.61327964
+Deaths,Oman,Both,All Ages,Cardiovascular diseases,Number,2012,4978.8622,5392.149465,4712.111449
+Deaths,Oman,Both,All Ages,Cardiovascular diseases,Percent,2012,0.397617833,0.425551206,0.378597812
+Deaths,Oman,Both,All Ages,Cardiovascular diseases,Rate,2012,138.2931151,149.7726019,130.8838334
+Deaths,Oman,Both,All Ages,Diabetes mellitus,Number,2013,674.9710541,743.5619781,602.3489102
+Deaths,Oman,Both,All Ages,Diabetes mellitus,Percent,2013,0.053409728,0.058589814,0.047859558
+Deaths,Oman,Both,All Ages,Diabetes mellitus,Rate,2013,17.56776715,19.35301316,15.67759882
+Deaths,Oman,Both,All Ages,Total cancers,Number,2015,1306.993792,1407.296653,1184.703705
+Deaths,Oman,Both,All Ages,Total cancers,Percent,2015,0.102001221,0.108446357,0.093523864
+Deaths,Oman,Both,All Ages,Total cancers,Rate,2015,31.67846237,34.10956832,28.71443763
+Deaths,Oman,Both,All Ages,Chronic respiratory diseases,Number,2014,260.5922975,293.0730587,202.6771452
+Deaths,Oman,Both,All Ages,Chronic respiratory diseases,Percent,2014,0.020743799,0.02310576,0.016110195
+Deaths,Oman,Both,All Ages,Chronic respiratory diseases,Rate,2014,6.576816186,7.396564114,5.115156288
+Deaths,Oman,Both,All Ages,Diabetes mellitus,Number,2014,683.6105618,754.7247943,611.6540596
+Deaths,Oman,Both,All Ages,Diabetes mellitus,Percent,2014,0.054416239,0.059681799,0.048894439
+Deaths,Oman,Both,All Ages,Diabetes mellitus,Rate,2014,17.25293131,19.04770897,15.43689648
+Deaths,Oman,Both,All Ages,Cardiovascular diseases,Number,2014,5087.265376,5491.694105,4787.322996
+Deaths,Oman,Both,All Ages,Cardiovascular diseases,Percent,2014,0.404960767,0.431608192,0.3859321
+Deaths,Oman,Both,All Ages,Cardiovascular diseases,Rate,2014,128.392165,138.5991183,120.8222333
+Deaths,Oman,Both,All Ages,Cardiovascular diseases,Number,2015,5246.395081,5680.635143,4906.688951
+Deaths,Oman,Both,All Ages,Cardiovascular diseases,Percent,2015,0.409443054,0.437771546,0.390948186
+Deaths,Oman,Both,All Ages,Cardiovascular diseases,Rate,2015,127.1603049,137.685265,118.9266255
+Deaths,Oman,Both,All Ages,Total cancers,Number,2014,1268.588521,1362.419388,1158.096898
+Deaths,Oman,Both,All Ages,Total cancers,Percent,2014,0.100983702,0.107162858,0.092452338
+Deaths,Oman,Both,All Ages,Total cancers,Rate,2014,32.01657761,34.38467665,29.22799521
+Deaths,Oman,Both,All Ages,Diabetes mellitus,Number,2015,713.8469118,789.7214132,635.5222449
+Deaths,Oman,Both,All Ages,Diabetes mellitus,Percent,2015,0.055708068,0.061267321,0.049917151
+Deaths,Oman,Both,All Ages,Diabetes mellitus,Rate,2015,17.30197394,19.1409938,15.40356782
+Deaths,Oman,Both,All Ages,Chronic respiratory diseases,Number,2015,265.77849,301.4461688,209.5601323
+Deaths,Oman,Both,All Ages,Chronic respiratory diseases,Percent,2015,0.020742207,0.023268471,0.016150082
+Deaths,Oman,Both,All Ages,Chronic respiratory diseases,Rate,2015,6.441846887,7.306347719,5.079245827
+Deaths,Oman,Both,All Ages,Cardiovascular diseases,Number,2016,5372.100196,5819.680843,5012.696532
+Deaths,Oman,Both,All Ages,Cardiovascular diseases,Percent,2016,0.408599534,0.438062848,0.389471916
+Deaths,Oman,Both,All Ages,Cardiovascular diseases,Rate,2016,122.8936111,133.1325866,114.6717961
+Deaths,Oman,Both,All Ages,Diabetes mellitus,Number,2016,742.2156694,825.6845964,657.2703544
+Deaths,Oman,Both,All Ages,Diabetes mellitus,Percent,2016,0.056448568,0.062135245,0.05057721
+Deaths,Oman,Both,All Ages,Diabetes mellitus,Rate,2016,16.97912558,18.88858324,15.03589367
+Deaths,Oman,Both,All Ages,Chronic respiratory diseases,Number,2017,267.036639,301.3771461,212.922957
+Deaths,Oman,Both,All Ages,Chronic respiratory diseases,Percent,2017,0.020375647,0.022863354,0.01601569
+Deaths,Oman,Both,All Ages,Chronic respiratory diseases,Rate,2017,5.921844594,6.683384834,4.721811458
+Deaths,Oman,Both,All Ages,Diabetes mellitus,Number,2018,711.3128744,806.0802259,615.545038
+Deaths,Oman,Both,All Ages,Diabetes mellitus,Percent,2018,0.056657232,0.063185718,0.05021304
+Deaths,Oman,Both,All Ages,Diabetes mellitus,Rate,2018,15.70717701,17.79982515,13.59243621
+Deaths,Oman,Both,All Ages,Chronic respiratory diseases,Number,2016,270.842615,306.4095869,214.8995095
+Deaths,Oman,Both,All Ages,Chronic respiratory diseases,Percent,2016,0.020600668,0.023119043,0.016140577
+Deaths,Oman,Both,All Ages,Chronic respiratory diseases,Rate,2016,6.195868616,7.009508245,4.916099064
+Deaths,Oman,Both,All Ages,Chronic respiratory diseases,Number,2018,249.2316412,284.1077784,198.0034168
+Deaths,Oman,Both,All Ages,Chronic respiratory diseases,Percent,2018,0.019854467,0.022236204,0.015648241
+Deaths,Oman,Both,All Ages,Chronic respiratory diseases,Rate,2018,5.503521229,6.27365443,4.372302019
+Deaths,Oman,Both,All Ages,Cardiovascular diseases,Number,2017,5372.089454,5840.460676,4967.663812
+Deaths,Oman,Both,All Ages,Cardiovascular diseases,Percent,2017,0.409880834,0.44171749,0.390264316
+Deaths,Oman,Both,All Ages,Cardiovascular diseases,Rate,2017,119.1322622,129.5189327,110.1636584
+Deaths,Oman,Both,All Ages,Total cancers,Number,2016,1355.880285,1471.875634,1216.053672
+Deaths,Oman,Both,All Ages,Total cancers,Percent,2016,0.103127477,0.11041144,0.093784819
+Deaths,Oman,Both,All Ages,Total cancers,Rate,2016,31.01748262,33.67102348,27.81877135
+Deaths,Oman,Both,All Ages,Total cancers,Number,2017,1382.497157,1524.035501,1232.654955
+Deaths,Oman,Both,All Ages,Total cancers,Percent,2017,0.105484442,0.113781131,0.09545789
+Deaths,Oman,Both,All Ages,Total cancers,Rate,2017,30.65846449,33.79724005,27.33554133
+Deaths,Oman,Both,All Ages,Diabetes mellitus,Number,2017,744.2436219,835.5808754,652.0160156
+Deaths,Oman,Both,All Ages,Diabetes mellitus,Percent,2017,0.056780795,0.062769398,0.050796062
+Deaths,Oman,Both,All Ages,Diabetes mellitus,Rate,2017,16.50445829,18.52996693,14.45920504
+Deaths,Oman,Both,All Ages,Total cancers,Number,2018,1359.256368,1521.823454,1194.410011
+Deaths,Oman,Both,All Ages,Total cancers,Percent,2018,0.108282764,0.118295403,0.097485371
+Deaths,Oman,Both,All Ages,Total cancers,Rate,2018,30.01503438,33.60483302,26.37490498
+Deaths,Oman,Both,All Ages,Cardiovascular diseases,Number,2018,5078.600983,5606.853374,4658.844742
+Deaths,Oman,Both,All Ages,Cardiovascular diseases,Percent,2018,0.404552684,0.437100819,0.382204971
+Deaths,Oman,Both,All Ages,Cardiovascular diseases,Rate,2018,112.145425,123.8102691,102.8763877
+Deaths,Oman,Both,All Ages,Cardiovascular diseases,Number,2019,4998.347403,5558.228601,4524.505648
+Deaths,Oman,Both,All Ages,Cardiovascular diseases,Percent,2019,0.403914643,0.436928364,0.380408335
+Deaths,Oman,Both,All Ages,Cardiovascular diseases,Rate,2019,109.0390261,121.2528431,98.70216082
+Deaths,Oman,Both,All Ages,Diabetes mellitus,Number,2019,705.2457938,813.4116284,599.5409127
+Deaths,Oman,Both,All Ages,Diabetes mellitus,Percent,2019,0.056984814,0.06396272,0.050156842
+Deaths,Oman,Both,All Ages,Diabetes mellitus,Rate,2019,15.38494792,17.74458728,13.0789943
+Deaths,Oman,Both,All Ages,Chronic respiratory diseases,Number,2019,243.7357104,281.3029006,191.0759845
+Deaths,Oman,Both,All Ages,Chronic respiratory diseases,Percent,2019,0.01969774,0.022147001,0.015565562
+Deaths,Oman,Both,All Ages,Chronic respiratory diseases,Rate,2019,5.3170983,6.136627137,4.168325562
+Deaths,Oman,Both,All Ages,Total cancers,Number,2019,1363.218102,1557.400861,1175.634634
+Deaths,Oman,Both,All Ages,Total cancers,Percent,2019,0.110164344,0.121158135,0.098732088
+Deaths,Oman,Both,All Ages,Total cancers,Rate,2019,29.73862402,33.97472392,25.64648776
+Deaths,Peru,Both,All Ages,Cardiovascular diseases,Number,2009,23332.39943,27143.83192,19968.26071
+Deaths,Peru,Both,All Ages,Cardiovascular diseases,Percent,2009,0.173845321,0.193569395,0.155964024
+Deaths,Peru,Both,All Ages,Cardiovascular diseases,Rate,2009,81.81253389,95.17690946,70.01654549
+Deaths,Peru,Both,All Ages,Chronic respiratory diseases,Number,2009,6033.191895,6920.564773,4832.458648
+Deaths,Peru,Both,All Ages,Chronic respiratory diseases,Percent,2009,0.04494727,0.048780565,0.036893664
+Deaths,Peru,Both,All Ages,Chronic respiratory diseases,Rate,2009,21.15473455,24.26621152,16.94449334
+Deaths,Peru,Both,All Ages,Diabetes mellitus,Number,2009,3492.25754,3997.141925,3010.747195
+Deaths,Peru,Both,All Ages,Diabetes mellitus,Percent,2009,0.026010109,0.02784088,0.023696945
+Deaths,Peru,Both,All Ages,Diabetes mellitus,Rate,2009,12.24522318,14.01554564,10.55685926
+Deaths,Peru,Both,All Ages,Total cancers,Number,2009,26856.318,30653.98806,23476.64591
+Deaths,Peru,Both,All Ages,Total cancers,Percent,2009,0.200040553,0.209885639,0.186042389
+Deaths,Peru,Both,All Ages,Total cancers,Rate,2009,94.16877301,107.4848922,82.31831856
+Deaths,Peru,Both,All Ages,Diabetes mellitus,Number,2010,3810.283979,4447.026512,3179.930864
+Deaths,Peru,Both,All Ages,Diabetes mellitus,Percent,2010,0.027282477,0.029272356,0.024739672
+Deaths,Peru,Both,All Ages,Diabetes mellitus,Rate,2010,13.17948902,15.3819341,10.99914445
+Deaths,Peru,Both,All Ages,Cardiovascular diseases,Number,2010,24664.80894,28874.51093,20730.97594
+Deaths,Peru,Both,All Ages,Cardiovascular diseases,Percent,2010,0.176684585,0.196483808,0.158645523
+Deaths,Peru,Both,All Ages,Cardiovascular diseases,Rate,2010,85.31374047,99.87478671,71.70690458
+Deaths,Peru,Both,All Ages,Diabetes mellitus,Number,2011,3981.870864,4618.334258,3302.354899
+Deaths,Peru,Both,All Ages,Diabetes mellitus,Percent,2011,0.028352258,0.030322158,0.025512214
+Deaths,Peru,Both,All Ages,Diabetes mellitus,Rate,2011,13.54719629,15.71258408,11.23533424
+Deaths,Peru,Both,All Ages,Chronic respiratory diseases,Number,2010,6475.144214,7522.969207,5071.431598
+Deaths,Peru,Both,All Ages,Chronic respiratory diseases,Percent,2010,0.046380315,0.050377623,0.037555612
+Deaths,Peru,Both,All Ages,Chronic respiratory diseases,Rate,2010,22.39704246,26.02139121,17.54170487
+Deaths,Peru,Both,All Ages,Total cancers,Number,2010,28118.97299,32427.18953,23884.8454
+Deaths,Peru,Both,All Ages,Total cancers,Percent,2010,0.201353468,0.211090195,0.187341461
+Deaths,Peru,Both,All Ages,Total cancers,Rate,2010,97.26143711,112.1632378,82.61590457
+Deaths,Peru,Both,All Ages,Chronic respiratory diseases,Number,2011,6678.06388,7827.350713,5127.764899
+Deaths,Peru,Both,All Ages,Chronic respiratory diseases,Percent,2011,0.047563885,0.051877979,0.037924892
+Deaths,Peru,Both,All Ages,Chronic respiratory diseases,Rate,2011,22.72023512,26.6303605,17.44577863
+Deaths,Peru,Both,All Ages,Total cancers,Number,2011,28613.10304,33098.80225,24217.29457
+Deaths,Peru,Both,All Ages,Total cancers,Percent,2011,0.20374034,0.213861649,0.189103006
+Deaths,Peru,Both,All Ages,Total cancers,Rate,2011,97.34803983,112.6093704,82.3925372
+Deaths,Peru,Both,All Ages,Cardiovascular diseases,Number,2011,25132.62965,29633.56262,21006.67916
+Deaths,Peru,Both,All Ages,Cardiovascular diseases,Percent,2011,0.179043004,0.201982371,0.159602128
+Deaths,Peru,Both,All Ages,Cardiovascular diseases,Rate,2011,85.50670751,100.8198667,71.4693208
+Deaths,Peru,Both,All Ages,Total cancers,Number,2013,29379.62565,33308.37048,25840.29549
+Deaths,Peru,Both,All Ages,Total cancers,Percent,2013,0.205119845,0.215013522,0.190137434
+Deaths,Peru,Both,All Ages,Total cancers,Rate,2013,95.45281523,108.2170947,83.95372289
+Deaths,Peru,Both,All Ages,Cardiovascular diseases,Number,2012,25573.17847,29829.33756,21679.04603
+Deaths,Peru,Both,All Ages,Cardiovascular diseases,Percent,2012,0.180079142,0.202260811,0.16122897
+Deaths,Peru,Both,All Ages,Cardiovascular diseases,Rate,2012,85.23691728,99.42294741,72.25754338
+Deaths,Peru,Both,All Ages,Diabetes mellitus,Number,2012,4136.971267,4736.560401,3498.463839
+Deaths,Peru,Both,All Ages,Diabetes mellitus,Percent,2012,0.029116822,0.031261207,0.026068113
+Deaths,Peru,Both,All Ages,Diabetes mellitus,Rate,2012,13.78877006,15.78723613,11.66058702
+Deaths,Peru,Both,All Ages,Chronic respiratory diseases,Number,2012,6865.340674,7989.658028,5233.440203
+Deaths,Peru,Both,All Ages,Chronic respiratory diseases,Percent,2012,0.048330498,0.052970936,0.038472582
+Deaths,Peru,Both,All Ages,Chronic respiratory diseases,Rate,2012,22.88258676,26.63000304,17.44336592
+Deaths,Peru,Both,All Ages,Diabetes mellitus,Number,2013,4293.551708,4905.772456,3670.625849
+Deaths,Peru,Both,All Ages,Diabetes mellitus,Percent,2013,0.029976811,0.032199915,0.026915101
+Deaths,Peru,Both,All Ages,Diabetes mellitus,Rate,2013,13.94951735,15.93858946,11.92566492
+Deaths,Peru,Both,All Ages,Total cancers,Number,2012,28996.32882,33172.22395,25064.64156
+Deaths,Peru,Both,All Ages,Total cancers,Percent,2012,0.20408263,0.213974147,0.189763987
+Deaths,Peru,Both,All Ages,Total cancers,Rate,2012,96.64647998,110.5649856,83.54193365
+Deaths,Peru,Both,All Ages,Cardiovascular diseases,Number,2013,25939.4896,30200.46696,22302.91738
+Deaths,Peru,Both,All Ages,Cardiovascular diseases,Percent,2013,0.181150254,0.20328588,0.161664461
+Deaths,Peru,Both,All Ages,Cardiovascular diseases,Rate,2013,84.2759992,98.11968425,72.46097269
+Deaths,Peru,Both,All Ages,Chronic respiratory diseases,Number,2013,6973.299594,8065.085383,5432.048049
+Deaths,Peru,Both,All Ages,Chronic respiratory diseases,Percent,2013,0.048697167,0.053608371,0.038258286
+Deaths,Peru,Both,All Ages,Chronic respiratory diseases,Rate,2013,22.65587334,26.20302634,17.64843041
+Deaths,Peru,Both,All Ages,Diabetes mellitus,Number,2014,4332.340299,5010.044458,3670.801547
+Deaths,Peru,Both,All Ages,Diabetes mellitus,Percent,2014,0.030387613,0.032765506,0.027023922
+Deaths,Peru,Both,All Ages,Diabetes mellitus,Rate,2014,13.74547284,15.89566499,11.64656963
+Deaths,Peru,Both,All Ages,Chronic respiratory diseases,Number,2014,6892.511288,7989.364996,5352.81211
+Deaths,Peru,Both,All Ages,Chronic respiratory diseases,Percent,2014,0.048368238,0.053545041,0.037869377
+Deaths,Peru,Both,All Ages,Chronic respiratory diseases,Rate,2014,21.86827907,25.34833184,16.98318424
+Deaths,Peru,Both,All Ages,Total cancers,Number,2014,29408.07805,33644.55884,25657.40057
+Deaths,Peru,Both,All Ages,Total cancers,Percent,2014,0.206263423,0.216009677,0.191652409
+Deaths,Peru,Both,All Ages,Total cancers,Rate,2014,93.3047522,106.7460859,81.40475546
+Deaths,Peru,Both,All Ages,Cardiovascular diseases,Number,2014,25674.2671,30175.24735,21885.39988
+Deaths,Peru,Both,All Ages,Cardiovascular diseases,Percent,2014,0.180122363,0.203385328,0.159151211
+Deaths,Peru,Both,All Ages,Cardiovascular diseases,Rate,2014,81.45826892,95.73879572,69.43710533
+Deaths,Peru,Both,All Ages,Cardiovascular diseases,Number,2015,25741.56226,31202.08597,21042.30866
+Deaths,Peru,Both,All Ages,Cardiovascular diseases,Percent,2015,0.181340992,0.206283491,0.159414367
+Deaths,Peru,Both,All Ages,Cardiovascular diseases,Rate,2015,80.13344502,97.13204719,65.50467556
+Deaths,Peru,Both,All Ages,Diabetes mellitus,Number,2015,4395.638987,5265.360296,3594.992131
+Deaths,Peru,Both,All Ages,Diabetes mellitus,Percent,2015,0.030951797,0.033580155,0.027378165
+Deaths,Peru,Both,All Ages,Diabetes mellitus,Rate,2015,13.68361763,16.39105877,11.19120516
+Deaths,Peru,Both,All Ages,Chronic respiratory diseases,Number,2015,6838.028788,8147.56237,5191.694229
+Deaths,Peru,Both,All Ages,Chronic respiratory diseases,Percent,2015,0.048194601,0.05363951,0.037648599
+Deaths,Peru,Both,All Ages,Chronic respiratory diseases,Rate,2015,21.28677344,25.36334954,16.16173641
+Deaths,Peru,Both,All Ages,Total cancers,Number,2015,29761.58884,34901.96994,24989.06357
+Deaths,Peru,Both,All Ages,Total cancers,Percent,2015,0.20954839,0.219814339,0.194333022
+Deaths,Peru,Both,All Ages,Total cancers,Rate,2015,92.64778178,108.6497805,77.79091771
+Deaths,Peru,Both,All Ages,Total cancers,Number,2017,31436.5678,39749.32647,24038.72578
+Deaths,Peru,Both,All Ages,Total cancers,Percent,2017,0.21342662,0.225093075,0.195472732
+Deaths,Peru,Both,All Ages,Total cancers,Rate,2017,94.58865916,119.6006993,72.32948754
+Deaths,Peru,Both,All Ages,Cardiovascular diseases,Number,2016,26403.84563,33520.54007,20807.12658
+Deaths,Peru,Both,All Ages,Cardiovascular diseases,Percent,2016,0.182987697,0.207134116,0.15994662
+Deaths,Peru,Both,All Ages,Cardiovascular diseases,Rate,2016,80.93751509,102.7528056,63.78150916
+Deaths,Peru,Both,All Ages,Total cancers,Number,2016,30525.73833,37858.1479,24059.33262
+Deaths,Peru,Both,All Ages,Total cancers,Percent,2016,0.211330746,0.222046743,0.194440378
+Deaths,Peru,Both,All Ages,Total cancers,Rate,2016,93.57263489,116.0491718,73.7507189
+Deaths,Peru,Both,All Ages,Diabetes mellitus,Number,2016,4512.271086,5668.124033,3530.364977
+Deaths,Peru,Both,All Ages,Diabetes mellitus,Percent,2016,0.031243295,0.033976958,0.027527076
+Deaths,Peru,Both,All Ages,Diabetes mellitus,Rate,2016,13.83177338,17.37488853,10.82186938
+Deaths,Peru,Both,All Ages,Chronic respiratory diseases,Number,2016,6859.485909,8508.965603,5120.895238
+Deaths,Peru,Both,All Ages,Chronic respiratory diseases,Percent,2016,0.047568717,0.053034551,0.03760908
+Deaths,Peru,Both,All Ages,Chronic respiratory diseases,Rate,2016,21.02685162,26.08311462,15.69743065
+Deaths,Peru,Both,All Ages,Cardiovascular diseases,Number,2017,27352.43967,34970.35509,21012.1814
+Deaths,Peru,Both,All Ages,Cardiovascular diseases,Percent,2017,0.185964985,0.209803656,0.161876291
+Deaths,Peru,Both,All Ages,Cardiovascular diseases,Rate,2017,82.30003381,105.2213785,63.22299804
+Deaths,Peru,Both,All Ages,Chronic respiratory diseases,Number,2017,6920.965469,8661.137776,5095.118367
+Deaths,Peru,Both,All Ages,Chronic respiratory diseases,Percent,2017,0.047077737,0.052514538,0.037612938
+Deaths,Peru,Both,All Ages,Chronic respiratory diseases,Rate,2017,20.82431034,26.06026887,15.33056718
+Deaths,Peru,Both,All Ages,Diabetes mellitus,Number,2017,4605.35434,5932.294474,3496.948109
+Deaths,Peru,Both,All Ages,Diabetes mellitus,Percent,2017,0.031271098,0.034209361,0.027503076
+Deaths,Peru,Both,All Ages,Diabetes mellitus,Rate,2017,13.85692913,17.84952427,10.52187487
+Deaths,Peru,Both,All Ages,Chronic respiratory diseases,Number,2018,6941.055905,8840.411697,5038.754808
+Deaths,Peru,Both,All Ages,Chronic respiratory diseases,Percent,2018,0.046396912,0.052083767,0.03753368
+Deaths,Peru,Both,All Ages,Chronic respiratory diseases,Rate,2018,20.60377875,26.24181237,14.95700232
+Deaths,Peru,Both,All Ages,Total cancers,Number,2018,32384.41732,41609.97927,24794.22703
+Deaths,Peru,Both,All Ages,Total cancers,Percent,2018,0.216008671,0.228770338,0.198230664
+Deaths,Peru,Both,All Ages,Total cancers,Rate,2018,96.12966364,123.5147532,73.59899922
+Deaths,Peru,Both,All Ages,Cardiovascular diseases,Number,2018,28272.16493,36437.63077,21520.86645
+Deaths,Peru,Both,All Ages,Cardiovascular diseases,Percent,2018,0.18894535,0.212858686,0.162478452
+Deaths,Peru,Both,All Ages,Cardiovascular diseases,Rate,2018,83.92288422,108.1611923,63.88238
+Deaths,Peru,Both,All Ages,Diabetes mellitus,Number,2018,4689.518348,6130.616446,3535.379218
+Deaths,Peru,Both,All Ages,Diabetes mellitus,Percent,2018,0.031287903,0.034424679,0.027326413
+Deaths,Peru,Both,All Ages,Diabetes mellitus,Rate,2018,13.9203314,18.19807629,10.49439339
+Deaths,Peru,Both,All Ages,Diabetes mellitus,Number,2019,4761.153939,6267.648298,3582.626545
+Deaths,Peru,Both,All Ages,Diabetes mellitus,Percent,2019,0.031212353,0.034478111,0.027302825
+Deaths,Peru,Both,All Ages,Diabetes mellitus,Rate,2019,14.00528985,18.4367555,10.53856351
+Deaths,Peru,Both,All Ages,Chronic respiratory diseases,Number,2019,6961.172518,8989.861724,5132.370425
+Deaths,Peru,Both,All Ages,Chronic respiratory diseases,Percent,2019,0.045724635,0.051832372,0.037032546
+Deaths,Peru,Both,All Ages,Chronic respiratory diseases,Rate,2019,20.47680878,26.44434958,15.09725086
+Deaths,Peru,Both,All Ages,Cardiovascular diseases,Number,2019,29215.41461,37411.53687,22028.73678
+Deaths,Peru,Both,All Ages,Cardiovascular diseases,Percent,2019,0.191849435,0.216311613,0.16460817
+Deaths,Peru,Both,All Ages,Cardiovascular diseases,Rate,2019,85.93932372,110.0488294,64.79917421
+Deaths,Peru,Both,All Ages,Total cancers,Number,2019,33336.76222,42739.61229,25852.80887
+Deaths,Peru,Both,All Ages,Total cancers,Percent,2019,0.218492742,0.230979233,0.201126502
+Deaths,Peru,Both,All Ages,Total cancers,Rate,2019,98.06257549,125.7217611,76.04796783
+Deaths,Rwanda,Both,All Ages,Cardiovascular diseases,Number,2009,8145.954408,9533.612832,6904.796138
+Deaths,Rwanda,Both,All Ages,Cardiovascular diseases,Percent,2009,0.112999521,0.130112831,0.098510868
+Deaths,Rwanda,Both,All Ages,Cardiovascular diseases,Rate,2009,81.09398052,94.90829123,68.73809691
+Deaths,Rwanda,Both,All Ages,Diabetes mellitus,Number,2009,1241.241613,1592.41484,996.1250352
+Deaths,Rwanda,Both,All Ages,Diabetes mellitus,Percent,2009,0.017211279,0.021368293,0.014139439
+Deaths,Rwanda,Both,All Ages,Diabetes mellitus,Rate,2009,12.3567133,15.85268607,9.916547547
+Deaths,Rwanda,Both,All Ages,Chronic respiratory diseases,Number,2009,1945.424757,2503.046288,1515.738951
+Deaths,Rwanda,Both,All Ages,Chronic respiratory diseases,Percent,2009,0.026980933,0.03436376,0.021187029
+Deaths,Rwanda,Both,All Ages,Chronic respiratory diseases,Rate,2009,19.36694333,24.91813442,15.08936814
+Deaths,Rwanda,Both,All Ages,Total cancers,Number,2009,4714.786705,5679.362766,3921.449199
+Deaths,Rwanda,Both,All Ages,Total cancers,Percent,2009,0.065352203,0.076224526,0.056334443
+Deaths,Rwanda,Both,All Ages,Total cancers,Rate,2009,46.93628297,56.5387566,39.03851029
+Deaths,Rwanda,Both,All Ages,Diabetes mellitus,Number,2010,1284.066493,1627.821757,1015.961499
+Deaths,Rwanda,Both,All Ages,Diabetes mellitus,Percent,2010,0.018536582,0.023137618,0.015196595
+Deaths,Rwanda,Both,All Ages,Diabetes mellitus,Rate,2010,12.44594086,15.77782259,9.847306821
+Deaths,Rwanda,Both,All Ages,Chronic respiratory diseases,Number,2011,2030.477799,2661.416762,1568.559701
+Deaths,Rwanda,Both,All Ages,Chronic respiratory diseases,Percent,2011,0.029848941,0.03851464,0.023400672
+Deaths,Rwanda,Both,All Ages,Chronic respiratory diseases,Rate,2011,19.16092344,25.1148783,14.80196058
+Deaths,Rwanda,Both,All Ages,Total cancers,Number,2011,5081.218805,6222.764085,4188.023377
+Deaths,Rwanda,Both,All Ages,Total cancers,Percent,2011,0.074643581,0.088084565,0.063846088
+Deaths,Rwanda,Both,All Ages,Total cancers,Rate,2011,47.94972125,58.72209302,39.52094197
+Deaths,Rwanda,Both,All Ages,Chronic respiratory diseases,Number,2010,1986.271163,2578.251283,1538.181196
+Deaths,Rwanda,Both,All Ages,Chronic respiratory diseases,Percent,2010,0.028677036,0.03673097,0.022565734
+Deaths,Rwanda,Both,All Ages,Chronic respiratory diseases,Rate,2010,19.25212874,24.98995431,14.90897263
+Deaths,Rwanda,Both,All Ages,Total cancers,Number,2010,4890.692573,5946.004675,4046.481056
+Deaths,Rwanda,Both,All Ages,Total cancers,Percent,2010,0.070567036,0.082710879,0.060306042
+Deaths,Rwanda,Both,All Ages,Total cancers,Rate,2010,47.4035191,57.63223551,39.22091588
+Deaths,Rwanda,Both,All Ages,Cardiovascular diseases,Number,2010,8382.549768,9788.354126,7079.406366
+Deaths,Rwanda,Both,All Ages,Cardiovascular diseases,Percent,2010,0.121061297,0.139391847,0.105240469
+Deaths,Rwanda,Both,All Ages,Cardiovascular diseases,Rate,2010,81.24868863,94.87458572,68.61784295
+Deaths,Rwanda,Both,All Ages,Diabetes mellitus,Number,2011,1334.56941,1702.073181,1043.920633
+Deaths,Rwanda,Both,All Ages,Diabetes mellitus,Percent,2011,0.019617206,0.024635564,0.015974429
+Deaths,Rwanda,Both,All Ages,Diabetes mellitus,Rate,2011,12.59387436,16.06188155,9.851121413
+Deaths,Rwanda,Both,All Ages,Cardiovascular diseases,Number,2011,8671.900599,10179.37341,7303.449611
+Deaths,Rwanda,Both,All Ages,Cardiovascular diseases,Percent,2011,0.127525651,0.146998451,0.109694528
+Deaths,Rwanda,Both,All Ages,Cardiovascular diseases,Rate,2011,81.83375533,96.05925987,68.92015213
+Deaths,Rwanda,Both,All Ages,Diabetes mellitus,Number,2012,1398.134424,1803.275518,1097.493299
+Deaths,Rwanda,Both,All Ages,Diabetes mellitus,Percent,2012,0.020622762,0.025841933,0.016693468
+Deaths,Rwanda,Both,All Ages,Diabetes mellitus,Rate,2012,12.84702354,16.56973939,10.0845255
+Deaths,Rwanda,Both,All Ages,Cardiovascular diseases,Number,2012,9045.551761,10653.73985,7562.524032
+Deaths,Rwanda,Both,All Ages,Cardiovascular diseases,Percent,2012,0.133474756,0.154227474,0.114282787
+Deaths,Rwanda,Both,All Ages,Cardiovascular diseases,Rate,2012,83.11676935,97.89391086,69.48968756
+Deaths,Rwanda,Both,All Ages,Chronic respiratory diseases,Number,2013,2115.61133,2783.006771,1623.515204
+Deaths,Rwanda,Both,All Ages,Chronic respiratory diseases,Percent,2013,0.032563111,0.042442575,0.025265835
+Deaths,Rwanda,Both,All Ages,Chronic respiratory diseases,Rate,2013,19.00993532,25.00685167,14.58818006
+Deaths,Rwanda,Both,All Ages,Chronic respiratory diseases,Number,2012,2089.068777,2744.799796,1607.542736
+Deaths,Rwanda,Both,All Ages,Chronic respiratory diseases,Percent,2012,0.030815867,0.040241662,0.024083887
+Deaths,Rwanda,Both,All Ages,Chronic respiratory diseases,Rate,2012,19.195805,25.22111394,14.77121157
+Deaths,Rwanda,Both,All Ages,Total cancers,Number,2013,5486.569318,6801.312928,4439.217408
+Deaths,Rwanda,Both,All Ages,Total cancers,Percent,2013,0.084373594,0.099518247,0.072075435
+Deaths,Rwanda,Both,All Ages,Total cancers,Rate,2013,49.29985315,61.11355003,39.88881824
+Deaths,Rwanda,Both,All Ages,Diabetes mellitus,Number,2013,1448.364366,1870.818941,1125.787336
+Deaths,Rwanda,Both,All Ages,Diabetes mellitus,Percent,2013,0.02229355,0.027861642,0.017991064
+Deaths,Rwanda,Both,All Ages,Diabetes mellitus,Rate,2013,13.01435312,16.81034061,10.11582049
+Deaths,Rwanda,Both,All Ages,Cardiovascular diseases,Number,2013,9298.702089,10980.53037,7749.704611
+Deaths,Rwanda,Both,All Ages,Cardiovascular diseases,Percent,2013,0.143177101,0.165479537,0.122338123
+Deaths,Rwanda,Both,All Ages,Cardiovascular diseases,Rate,2013,83.55396985,98.66612512,69.63537268
+Deaths,Rwanda,Both,All Ages,Total cancers,Number,2012,5312.064692,6545.059756,4341.159897
+Deaths,Rwanda,Both,All Ages,Total cancers,Percent,2012,0.078295379,0.092553798,0.066952313
+Deaths,Rwanda,Both,All Ages,Total cancers,Rate,2012,48.81091474,60.14052393,39.88957174
+Deaths,Rwanda,Both,All Ages,Chronic respiratory diseases,Number,2014,2183.811073,2907.097268,1663.734981
+Deaths,Rwanda,Both,All Ages,Chronic respiratory diseases,Percent,2014,0.033575151,0.044101658,0.026126007
+Deaths,Rwanda,Both,All Ages,Chronic respiratory diseases,Rate,2014,19.26612277,25.64713292,14.67788253
+Deaths,Rwanda,Both,All Ages,Total cancers,Number,2014,5742.415601,7130.14204,4635.135227
+Deaths,Rwanda,Both,All Ages,Total cancers,Percent,2014,0.088200444,0.103615741,0.075588059
+Deaths,Rwanda,Both,All Ages,Total cancers,Rate,2014,50.66101428,62.90388101,40.89231227
+Deaths,Rwanda,Both,All Ages,Cardiovascular diseases,Number,2014,9634.473905,11455.17152,7996.365035
+Deaths,Rwanda,Both,All Ages,Cardiovascular diseases,Percent,2014,0.148182183,0.169844146,0.125791601
+Deaths,Rwanda,Both,All Ages,Cardiovascular diseases,Rate,2014,84.99771769,101.0603635,70.54591506
+Deaths,Rwanda,Both,All Ages,Diabetes mellitus,Number,2014,1513.753927,1950.25265,1182.885784
+Deaths,Rwanda,Both,All Ages,Diabetes mellitus,Percent,2014,0.023275145,0.029193557,0.018667695
+Deaths,Rwanda,Both,All Ages,Diabetes mellitus,Rate,2014,13.35471248,17.20561245,10.43571168
+Deaths,Rwanda,Both,All Ages,Diabetes mellitus,Number,2015,1585.288325,2037.777884,1227.927324
+Deaths,Rwanda,Both,All Ages,Diabetes mellitus,Percent,2015,0.024000924,0.03032779,0.019125302
+Deaths,Rwanda,Both,All Ages,Diabetes mellitus,Rate,2015,13.68208836,17.58737299,10.5978262
+Deaths,Rwanda,Both,All Ages,Chronic respiratory diseases,Number,2015,2244.004705,2997.743819,1727.442995
+Deaths,Rwanda,Both,All Ages,Chronic respiratory diseases,Percent,2015,0.033970721,0.044531568,0.026359116
+Deaths,Rwanda,Both,All Ages,Chronic respiratory diseases,Rate,2015,19.36724707,25.87251491,14.90897733
+Deaths,Rwanda,Both,All Ages,Total cancers,Number,2015,5984.7116,7433.475651,4787.108941
+Deaths,Rwanda,Both,All Ages,Total cancers,Percent,2015,0.090497631,0.106040212,0.077440956
+Deaths,Rwanda,Both,All Ages,Total cancers,Rate,2015,51.65202547,64.15581891,41.31592121
+Deaths,Rwanda,Both,All Ages,Cardiovascular diseases,Number,2015,9997.283093,11950.4215,8220.363456
+Deaths,Rwanda,Both,All Ages,Cardiovascular diseases,Percent,2015,0.151404611,0.17407663,0.128826097
+Deaths,Rwanda,Both,All Ages,Cardiovascular diseases,Rate,2015,86.28317544,103.1400537,70.94718191
+Deaths,Rwanda,Both,All Ages,Chronic respiratory diseases,Number,2016,2297.256052,3047.218678,1774.841016
+Deaths,Rwanda,Both,All Ages,Chronic respiratory diseases,Percent,2016,0.03410358,0.044611106,0.026562832
+Deaths,Rwanda,Both,All Ages,Chronic respiratory diseases,Rate,2016,19.34354989,25.65844869,14.94466658
+Deaths,Rwanda,Both,All Ages,Cardiovascular diseases,Number,2017,10782.96485,13050.81773,8763.754334
+Deaths,Rwanda,Both,All Ages,Cardiovascular diseases,Percent,2017,0.159649615,0.184030217,0.135727792
+Deaths,Rwanda,Both,All Ages,Cardiovascular diseases,Rate,2017,88.77532999,107.4463904,72.15132333
+Deaths,Rwanda,Both,All Ages,Cardiovascular diseases,Number,2016,10385.09787,12471.3415,8461.792327
+Deaths,Rwanda,Both,All Ages,Cardiovascular diseases,Percent,2016,0.154231842,0.177970605,0.131433012
+Deaths,Rwanda,Both,All Ages,Cardiovascular diseases,Rate,2016,87.44548029,105.0122455,71.25070013
+Deaths,Rwanda,Both,All Ages,Chronic respiratory diseases,Number,2017,2354.708176,3141.369166,1821.212041
+Deaths,Rwanda,Both,All Ages,Chronic respiratory diseases,Percent,2017,0.034853419,0.045839059,0.027353643
+Deaths,Rwanda,Both,All Ages,Chronic respiratory diseases,Rate,2017,19.38613344,25.86265358,14.99390031
+Deaths,Rwanda,Both,All Ages,Diabetes mellitus,Number,2017,1727.73775,2239.143097,1318.007541
+Deaths,Rwanda,Both,All Ages,Diabetes mellitus,Percent,2017,0.025573814,0.032305704,0.020399091
+Deaths,Rwanda,Both,All Ages,Diabetes mellitus,Rate,2017,14.22433358,18.43469493,10.85105591
+Deaths,Rwanda,Both,All Ages,Total cancers,Number,2016,6220.519924,7729.03127,5021.749146
+Deaths,Rwanda,Both,All Ages,Total cancers,Percent,2016,0.092232429,0.107770057,0.078840951
+Deaths,Rwanda,Both,All Ages,Total cancers,Rate,2016,52.37854849,65.08064343,42.2845573
+Deaths,Rwanda,Both,All Ages,Diabetes mellitus,Number,2016,1655.989529,2122.80774,1271.546202
+Deaths,Rwanda,Both,All Ages,Diabetes mellitus,Percent,2016,0.024586598,0.031164036,0.019652544
+Deaths,Rwanda,Both,All Ages,Diabetes mellitus,Rate,2016,13.94390323,17.87464544,10.70678097
+Deaths,Rwanda,Both,All Ages,Total cancers,Number,2017,6469.406828,8017.155175,5217.128216
+Deaths,Rwanda,Both,All Ages,Total cancers,Percent,2017,0.095629304,0.111825929,0.081963135
+Deaths,Rwanda,Both,All Ages,Total cancers,Rate,2017,53.2621347,66.0046292,42.95222006
+Deaths,Rwanda,Both,All Ages,Diabetes mellitus,Number,2018,1825.109804,2377.465919,1399.229981
+Deaths,Rwanda,Both,All Ages,Diabetes mellitus,Percent,2018,0.026897608,0.034102708,0.021433819
+Deaths,Rwanda,Both,All Ages,Diabetes mellitus,Rate,2018,14.70434646,19.15450922,11.27316416
+Deaths,Rwanda,Both,All Ages,Cardiovascular diseases,Number,2018,11321.55282,13859.52138,9325.854532
+Deaths,Rwanda,Both,All Ages,Cardiovascular diseases,Percent,2018,0.166891683,0.194125337,0.141882542
+Deaths,Rwanda,Both,All Ages,Cardiovascular diseases,Rate,2018,91.21425727,111.6618867,75.135532
+Deaths,Rwanda,Both,All Ages,Chronic respiratory diseases,Number,2018,2444.414037,3242.254718,1874.318031
+Deaths,Rwanda,Both,All Ages,Chronic respiratory diseases,Percent,2018,0.036025615,0.04718196,0.028463164
+Deaths,Rwanda,Both,All Ages,Chronic respiratory diseases,Rate,2018,19.69388955,26.12184571,15.10080196
+Deaths,Rwanda,Both,All Ages,Total cancers,Number,2018,6821.213404,8475.633702,5504.932603
+Deaths,Rwanda,Both,All Ages,Total cancers,Percent,2018,0.100395898,0.117213717,0.08604886
+Deaths,Rwanda,Both,All Ages,Total cancers,Rate,2018,54.95641137,68.28556516,44.35154316
+Deaths,Rwanda,Both,All Ages,Cardiovascular diseases,Number,2019,11825.5712,14544.05364,9713.654063
+Deaths,Rwanda,Both,All Ages,Cardiovascular diseases,Percent,2019,0.172636377,0.199747089,0.147175138
+Deaths,Rwanda,Both,All Ages,Cardiovascular diseases,Rate,2019,93.20193781,114.627358,76.55709535
+Deaths,Rwanda,Both,All Ages,Chronic respiratory diseases,Number,2019,2519.692366,3363.395442,1928.29154
+Deaths,Rwanda,Both,All Ages,Chronic respiratory diseases,Percent,2019,0.036774449,0.048167421,0.029039946
+Deaths,Rwanda,Both,All Ages,Chronic respiratory diseases,Rate,2019,19.85867805,26.50823098,15.19761753
+Deaths,Rwanda,Both,All Ages,Diabetes mellitus,Number,2019,1916.151663,2492.033454,1466.865161
+Deaths,Rwanda,Both,All Ages,Diabetes mellitus,Percent,2019,0.027966131,0.0353084,0.022277442
+Deaths,Rwanda,Both,All Ages,Diabetes mellitus,Rate,2019,15.10193843,19.64068738,11.56093632
+Deaths,Rwanda,Both,All Ages,Total cancers,Number,2019,7126.358278,8881.089721,5703.828286
+Deaths,Rwanda,Both,All Ages,Total cancers,Percent,2019,0.103863264,0.121040044,0.089061038
+Deaths,Rwanda,Both,All Ages,Total cancers,Rate,2019,56.16560839,69.99533112,44.95409483
+Deaths,Viet Nam,Both,All Ages,Diabetes mellitus,Number,2010,20263.08595,22961.53799,17640.48561
+Deaths,Viet Nam,Both,All Ages,Diabetes mellitus,Percent,2010,0.037186134,0.040723971,0.033240886
+Deaths,Viet Nam,Both,All Ages,Diabetes mellitus,Rate,2010,22.64785649,25.6638904,19.71660128
+Deaths,Viet Nam,Both,All Ages,Cardiovascular diseases,Number,2010,207096.607,231426.4551,187197.8536
+Deaths,Viet Nam,Both,All Ages,Cardiovascular diseases,Percent,2010,0.380247099,0.417747638,0.351494825
+Deaths,Viet Nam,Both,All Ages,Cardiovascular diseases,Rate,2010,231.4698879,258.6631254,209.2292424
+Deaths,Viet Nam,Both,All Ages,Chronic respiratory diseases,Number,2010,32201.34434,37208.31729,13007.52175
+Deaths,Viet Nam,Both,All Ages,Chronic respiratory diseases,Percent,2010,0.059140514,0.067970061,0.023692083
+Deaths,Viet Nam,Both,All Ages,Chronic respiratory diseases,Rate,2010,35.99113318,41.58737874,14.53838209
+Deaths,Viet Nam,Both,All Ages,Diabetes mellitus,Number,2009,19624.66715,22373.68965,17105.38676
+Deaths,Viet Nam,Both,All Ages,Diabetes mellitus,Percent,2009,0.036626916,0.040086257,0.032845833
+Deaths,Viet Nam,Both,All Ages,Diabetes mellitus,Rate,2009,22.15268252,25.25582929,19.30887282
+Deaths,Viet Nam,Both,All Ages,Total cancers,Number,2011,85742.29818,96948.02146,75986.63814
+Deaths,Viet Nam,Both,All Ages,Total cancers,Percent,2011,0.154231341,0.162889532,0.145641486
+Deaths,Viet Nam,Both,All Ages,Total cancers,Rate,2011,94.90208122,107.3049032,84.1042316
+Deaths,Viet Nam,Both,All Ages,Total cancers,Number,2010,82905.25327,93471.77795,73865.45996
+Deaths,Viet Nam,Both,All Ages,Total cancers,Percent,2010,0.152077679,0.16018487,0.144323678
+Deaths,Viet Nam,Both,All Ages,Total cancers,Rate,2010,92.66240504,104.4725082,82.55871491
+Deaths,Viet Nam,Both,All Ages,Diabetes mellitus,Number,2011,21179.02541,24058.44998,18371.83231
+Deaths,Viet Nam,Both,All Ages,Diabetes mellitus,Percent,2011,0.038115678,0.041934581,0.033908363
+Deaths,Viet Nam,Both,All Ages,Diabetes mellitus,Rate,2011,23.44156422,26.62859548,20.33448087
+Deaths,Viet Nam,Both,All Ages,Cardiovascular diseases,Number,2011,211556.6832,236972.2739,191125.5505
+Deaths,Viet Nam,Both,All Ages,Cardiovascular diseases,Percent,2011,0.380933148,0.417378436,0.351302935
+Deaths,Viet Nam,Both,All Ages,Cardiovascular diseases,Rate,2011,234.1571191,262.2878377,211.5433445
+Deaths,Viet Nam,Both,All Ages,Cardiovascular diseases,Number,2009,202620.8928,226177.8196,183383.1147
+Deaths,Viet Nam,Both,All Ages,Cardiovascular diseases,Percent,2009,0.37834395,0.414781008,0.350355927
+Deaths,Viet Nam,Both,All Ages,Cardiovascular diseases,Rate,2009,228.7221625,255.3136515,207.0062074
+Deaths,Viet Nam,Both,All Ages,Chronic respiratory diseases,Number,2009,32101.69772,37088.23914,12892.3834
+Deaths,Viet Nam,Both,All Ages,Chronic respiratory diseases,Percent,2009,0.059962616,0.06821092,0.023942682
+Deaths,Viet Nam,Both,All Ages,Chronic respiratory diseases,Rate,2009,36.23698238,41.86588136,14.55315772
+Deaths,Viet Nam,Both,All Ages,Chronic respiratory diseases,Number,2011,32596.26879,38095.63634,13257.38275
+Deaths,Viet Nam,Both,All Ages,Chronic respiratory diseases,Percent,2011,0.058710468,0.068083645,0.023617516
+Deaths,Viet Nam,Both,All Ages,Chronic respiratory diseases,Rate,2011,36.07850284,42.16536354,14.67365864
+Deaths,Viet Nam,Both,All Ages,Total cancers,Number,2009,80249.93159,90834.96225,71843.79662
+Deaths,Viet Nam,Both,All Ages,Total cancers,Percent,2009,0.149716342,0.157870382,0.142455626
+Deaths,Viet Nam,Both,All Ages,Total cancers,Rate,2009,90.58758769,102.5361635,81.09858908
+Deaths,Viet Nam,Both,All Ages,Cardiovascular diseases,Number,2012,215500.3595,240481.4479,193268.6112
+Deaths,Viet Nam,Both,All Ages,Cardiovascular diseases,Percent,2012,0.381392233,0.419237257,0.35134454
+Deaths,Viet Nam,Both,All Ages,Cardiovascular diseases,Rate,2012,236.2497748,263.636163,211.8774464
+Deaths,Viet Nam,Both,All Ages,Chronic respiratory diseases,Number,2012,33005.55166,39028.92794,13319.61622
+Deaths,Viet Nam,Both,All Ages,Chronic respiratory diseases,Percent,2012,0.058427292,0.06851661,0.023494817
+Deaths,Viet Nam,Both,All Ages,Chronic respiratory diseases,Rate,2012,36.18348556,42.7868216,14.60209319
+Deaths,Viet Nam,Both,All Ages,Total cancers,Number,2013,91671.41546,104322.4259,79766.68086
+Deaths,Viet Nam,Both,All Ages,Total cancers,Percent,2013,0.159255178,0.170375609,0.149164376
+Deaths,Viet Nam,Both,All Ages,Total cancers,Rate,2013,99.57767308,113.3197777,86.64620732
+Deaths,Viet Nam,Both,All Ages,Diabetes mellitus,Number,2013,23104.19559,26588.53934,19966.39101
+Deaths,Viet Nam,Both,All Ages,Diabetes mellitus,Percent,2013,0.040161594,0.044716745,0.035614343
+Deaths,Viet Nam,Both,All Ages,Diabetes mellitus,Rate,2013,25.09683115,28.88168427,21.68840469
+Deaths,Viet Nam,Both,All Ages,Diabetes mellitus,Number,2012,22128.41537,25221.59186,19123.00332
+Deaths,Viet Nam,Both,All Ages,Diabetes mellitus,Percent,2012,0.039139435,0.04338545,0.034648335
+Deaths,Viet Nam,Both,All Ages,Diabetes mellitus,Rate,2012,24.25904606,27.65004852,20.96425843
+Deaths,Viet Nam,Both,All Ages,Total cancers,Number,2012,88631.79861,100482.9521,77201.115
+Deaths,Viet Nam,Both,All Ages,Total cancers,Percent,2012,0.156680413,0.166650212,0.147407428
+Deaths,Viet Nam,Both,All Ages,Total cancers,Rate,2012,97.16569618,110.1579359,84.63441116
+Deaths,Viet Nam,Both,All Ages,Cardiovascular diseases,Number,2013,219271.6231,245157.9651,195539.5785
+Deaths,Viet Nam,Both,All Ages,Cardiovascular diseases,Percent,2013,0.381399348,0.419439468,0.350149382
+Deaths,Viet Nam,Both,All Ages,Cardiovascular diseases,Rate,2013,238.1828391,266.3017646,212.4040098
+Deaths,Viet Nam,Both,All Ages,Chronic respiratory diseases,Number,2013,33413.7371,39712.35681,13445.96408
+Deaths,Viet Nam,Both,All Ages,Chronic respiratory diseases,Percent,2013,0.058135887,0.068836907,0.02317706
+Deaths,Viet Nam,Both,All Ages,Chronic respiratory diseases,Rate,2013,36.29552541,43.13737345,14.60561952
+Deaths,Viet Nam,Both,All Ages,Diabetes mellitus,Number,2014,24184.52716,28054.71419,20741.87069
+Deaths,Viet Nam,Both,All Ages,Diabetes mellitus,Percent,2014,0.041389948,0.0464126,0.036387166
+Deaths,Viet Nam,Both,All Ages,Diabetes mellitus,Rate,2014,26.04190034,30.20931796,22.33484764
+Deaths,Viet Nam,Both,All Ages,Cardiovascular diseases,Number,2014,222871.9322,250800.2869,197764.4581
+Deaths,Viet Nam,Both,All Ages,Cardiovascular diseases,Percent,2014,0.381677856,0.419705049,0.349109948
+Deaths,Viet Nam,Both,All Ages,Cardiovascular diseases,Rate,2014,239.9885103,270.0617644,212.9527806
+Deaths,Viet Nam,Both,All Ages,Chronic respiratory diseases,Number,2014,33942.9861,40867.38226,13573.18177
+Deaths,Viet Nam,Both,All Ages,Chronic respiratory diseases,Percent,2014,0.058150997,0.069585092,0.022945062
+Deaths,Viet Nam,Both,All Ages,Chronic respiratory diseases,Rate,2014,36.54980952,44.00599973,14.61560297
+Deaths,Viet Nam,Both,All Ages,Total cancers,Number,2014,94911.42999,108763.4841,81617.5046
+Deaths,Viet Nam,Both,All Ages,Total cancers,Percent,2014,0.162323415,0.174227794,0.151563328
+Deaths,Viet Nam,Both,All Ages,Total cancers,Rate,2014,102.2006336,117.1165263,87.88573397
+Deaths,Viet Nam,Both,All Ages,Cardiovascular diseases,Number,2015,225568.9744,254809.066,198585.9507
+Deaths,Viet Nam,Both,All Ages,Cardiovascular diseases,Percent,2015,0.381040357,0.417790512,0.34823276
+Deaths,Viet Nam,Both,All Ages,Cardiovascular diseases,Rate,2015,240.8823675,272.1075062,212.0675243
+Deaths,Viet Nam,Both,All Ages,Total cancers,Number,2015,97970.48566,113511.586,83277.95401
+Deaths,Viet Nam,Both,All Ages,Total cancers,Percent,2015,0.165252488,0.17766853,0.153745356
+Deaths,Viet Nam,Both,All Ages,Total cancers,Rate,2015,104.6214915,121.2176437,88.93151543
+Deaths,Viet Nam,Both,All Ages,Chronic respiratory diseases,Number,2015,34288.98321,41722.54265,13727.04489
+Deaths,Viet Nam,Both,All Ages,Chronic respiratory diseases,Percent,2015,0.057952883,0.06984229,0.022777462
+Deaths,Viet Nam,Both,All Ages,Chronic respiratory diseases,Rate,2015,36.61678863,44.55499645,14.65894448
+Deaths,Viet Nam,Both,All Ages,Diabetes mellitus,Number,2015,25168.38852,29530.38258,21391.54297
+Deaths,Viet Nam,Both,All Ages,Diabetes mellitus,Percent,2015,0.042486488,0.047992902,0.036921848
+Deaths,Viet Nam,Both,All Ages,Diabetes mellitus,Rate,2015,26.87701636,31.53513682,22.84376887
+Deaths,Viet Nam,Both,All Ages,Diabetes mellitus,Number,2016,26316.85799,31014.96377,21993.20847
+Deaths,Viet Nam,Both,All Ages,Diabetes mellitus,Percent,2016,0.043689946,0.049582192,0.038041036
+Deaths,Viet Nam,Both,All Ages,Diabetes mellitus,Rate,2016,27.8812605,32.85864463,23.30059215
+Deaths,Viet Nam,Both,All Ages,Total cancers,Number,2016,101425.7211,119251.3154,84944.66463
+Deaths,Viet Nam,Both,All Ages,Total cancers,Percent,2016,0.168226438,0.181914599,0.155782056
+Deaths,Viet Nam,Both,All Ages,Total cancers,Rate,2016,107.4549611,126.3401958,89.99419019
+Deaths,Viet Nam,Both,All Ages,Cardiovascular diseases,Number,2016,228956.9454,258709.0274,200172.6362
+Deaths,Viet Nam,Both,All Ages,Cardiovascular diseases,Percent,2016,0.380370749,0.417253996,0.346104307
+Deaths,Viet Nam,Both,All Ages,Cardiovascular diseases,Rate,2016,242.567264,274.087955,212.071875
+Deaths,Viet Nam,Both,All Ages,Chronic respiratory diseases,Number,2016,34805.55168,42558.52519,13952.44289
+Deaths,Viet Nam,Both,All Ages,Chronic respiratory diseases,Percent,2016,0.057859883,0.070041514,0.022568988
+Deaths,Viet Nam,Both,All Ages,Chronic respiratory diseases,Rate,2016,36.87456359,45.0884117,14.78184421
+Deaths,Viet Nam,Both,All Ages,Total cancers,Number,2017,104911.4321,123809.586,87255.78773
+Deaths,Viet Nam,Both,All Ages,Total cancers,Percent,2017,0.171158236,0.185986865,0.157519903
+Deaths,Viet Nam,Both,All Ages,Total cancers,Rate,2017,110.3220102,130.1947952,91.75581455
+Deaths,Viet Nam,Both,All Ages,Chronic respiratory diseases,Number,2017,35311.66015,43454.00394,14013.2096
+Deaths,Viet Nam,Both,All Ages,Chronic respiratory diseases,Percent,2017,0.057761016,0.070132218,0.022410834
+Deaths,Viet Nam,Both,All Ages,Chronic respiratory diseases,Rate,2017,37.13278196,45.69504935,14.7359103
+Deaths,Viet Nam,Both,All Ages,Cardiovascular diseases,Number,2017,232645.5515,267008.6317,201469.7859
+Deaths,Viet Nam,Both,All Ages,Cardiovascular diseases,Percent,2017,0.380240008,0.418540468,0.346145775
+Deaths,Viet Nam,Both,All Ages,Cardiovascular diseases,Rate,2017,244.6437381,280.7790191,211.8601504
+Deaths,Viet Nam,Both,All Ages,Chronic respiratory diseases,Number,2018,35784.50657,44303.90745,13996.1427
+Deaths,Viet Nam,Both,All Ages,Chronic respiratory diseases,Percent,2018,0.057608476,0.070191896,0.022280272
+Deaths,Viet Nam,Both,All Ages,Chronic respiratory diseases,Rate,2018,37.37144021,46.26865051,14.61682891
+Deaths,Viet Nam,Both,All Ages,Total cancers,Number,2018,108620.7698,129804.9882,89380.37791
+Deaths,Viet Nam,Both,All Ages,Total cancers,Percent,2018,0.174344982,0.190488924,0.159476118
+Deaths,Viet Nam,Both,All Ages,Total cancers,Rate,2018,113.4377693,135.5614432,93.34412484
+Deaths,Viet Nam,Both,All Ages,Diabetes mellitus,Number,2017,27284.65231,32572.90008,22694.55007
+Deaths,Viet Nam,Both,All Ages,Diabetes mellitus,Percent,2017,0.044558796,0.050717713,0.038485786
+Deaths,Viet Nam,Both,All Ages,Diabetes mellitus,Rate,2017,28.69179871,34.25277631,23.86497196
+Deaths,Viet Nam,Both,All Ages,Diabetes mellitus,Number,2018,28357.65101,34150.95146,23188.90042
+Deaths,Viet Nam,Both,All Ages,Diabetes mellitus,Percent,2018,0.045567025,0.052063258,0.039424339
+Deaths,Viet Nam,Both,All Ages,Diabetes mellitus,Rate,2018,29.61522627,35.66544191,24.21725737
+Deaths,Viet Nam,Both,All Ages,Cardiovascular diseases,Number,2018,236471.1117,272270.1729,201340.8237
+Deaths,Viet Nam,Both,All Ages,Cardiovascular diseases,Percent,2018,0.380318931,0.418892463,0.344286678
+Deaths,Viet Nam,Both,All Ages,Cardiovascular diseases,Rate,2018,246.9578836,284.344524,210.2696746
+Deaths,Viet Nam,Both,All Ages,Cardiovascular diseases,Number,2019,240161.2155,278949.3331,202289.9026
+Deaths,Viet Nam,Both,All Ages,Cardiovascular diseases,Percent,2019,0.380327034,0.419862628,0.342273894
+Deaths,Viet Nam,Both,All Ages,Cardiovascular diseases,Rate,2019,249.1998737,289.447813,209.9032439
+Deaths,Viet Nam,Both,All Ages,Chronic respiratory diseases,Number,2019,36229.39966,45192.43516,14126.81088
+Deaths,Viet Nam,Both,All Ages,Chronic respiratory diseases,Percent,2019,0.057432147,0.070341775,0.022013439
+Deaths,Viet Nam,Both,All Ages,Chronic respiratory diseases,Rate,2019,37.59292191,46.89328838,14.65848464
+Deaths,Viet Nam,Both,All Ages,Diabetes mellitus,Number,2019,29391.14075,35426.97543,23512.47066
+Deaths,Viet Nam,Both,All Ages,Diabetes mellitus,Percent,2019,0.046500428,0.053368167,0.040411513
+Deaths,Viet Nam,Both,All Ages,Diabetes mellitus,Rate,2019,30.4972997,36.76029781,24.39738118
+Deaths,Viet Nam,Both,All Ages,Total cancers,Number,2019,112271.0217,134949.9161,90452.93933
+Deaths,Viet Nam,Both,All Ages,Total cancers,Percent,2019,0.177413014,0.194656623,0.162269087
+Deaths,Viet Nam,Both,All Ages,Total cancers,Rate,2019,116.4964309,140.0288635,93.85720761
