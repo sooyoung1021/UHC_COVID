@@ -53,7 +53,11 @@ dat_merged <- ipv_dat %>% left_join(uhc, by = c("name" = "country")) %>%
   filter(!is.na(uhc_2019),
          !vaccine %in% c("IPV1", "YFV"))
 
+# load GHSI data
+ghs <- rio::import(here::here("data", "ghsi_2019.xlsx"))%>% clean_data()
 
+dat_merged %<>% left_join(ghs, c("name" = "country2"))
+  
 # maybe filter only the vaccines that are considered essential? 
 
 # visual inspection & Figure 1 and 2
@@ -85,50 +89,51 @@ ggsave(here::here("results", "figure_s1_1.png"),
 vaccines <- c("All", dat_merged$vaccine %>% unique())
 res_list <- list()
 
+
 # For supplementary material
 
 for(vac in vaccines){
   if(vac=="All"){
     base_temp1 <- glm(coverage ~ year + 
                         wb_income+who_region +
-                        prepost + uhc_cat5 + vaccine,
+                        prepost + uhc_cat5 + vaccine + ghsi,
                       data = dat_merged %>% filter(year >=2010)) %>% summary()
     
     base_temp2 <-  glm(coverage ~ year  +
                          wb_income+who_region+ 
-                         prepost + uhc_cat6 + vaccine,
+                         prepost + uhc_cat6 + vaccine+ ghsi,
                        data = dat_merged %>% filter(year >=2010)) %>% summary()
     
     did_temp1 <- glm(coverage ~ year + 
                        wb_income+who_region +
-                       prepost + uhc_cat5 + vaccine+
+                       prepost + uhc_cat5 + vaccine+ ghsi+
                        prepost*uhc_cat5 ,
                      data = dat_merged %>% filter(year >=2010)) %>% summary()
     
     did_temp2 <-  glm(coverage ~ year  +
                         wb_income+who_region+ 
-                        prepost + uhc_cat6 + vaccine+
+                        prepost + uhc_cat6 + vaccine+ ghsi+
                         prepost*uhc_cat6,
                       data = dat_merged %>% filter(year >=2010)) %>% summary()
   }else{
   base_temp1 <- glm(coverage ~ year + 
-                     wb_income+who_region +
+                     wb_income+who_region + ghsi+
                      prepost + uhc_cat5,
                    data = dat_merged %>% filter(vaccine==vac, year >=2010)) %>% summary()
   
   base_temp2 <-  glm(coverage ~ year  +
-                      wb_income+who_region+ 
+                      wb_income+who_region+  ghsi+
                       prepost + uhc_cat6,
                     data = dat_merged %>% filter(vaccine==vac, year >=2010)) %>% summary()
   
   did_temp1 <- glm(coverage ~ year + 
-                     wb_income+who_region +
+                     wb_income+who_region + ghsi+
                      prepost + uhc_cat5 +
                      prepost*uhc_cat5,
                    data = dat_merged %>% filter(vaccine==vac, year >=2010)) %>% summary()
   
   did_temp2 <-  glm(coverage ~ year  +
-                      wb_income+who_region+ 
+                      wb_income+who_region+  ghsi+
                       prepost + uhc_cat6 +
                       prepost*uhc_cat6,
                     data = dat_merged %>% filter(vaccine==vac, year >=2010)) %>% summary()
@@ -138,7 +143,7 @@ for(vac in vaccines){
                  base_temp2$coefficients[,c(1,2,4)] %>% data.frame() %>% add_row(),
                  did_temp2$coefficients[,c(1,2,4)] %>% data.frame())
   
-  res_list[[vac]] <- res
+  res_list[[vac]] <- res %>% round(digits=2)
 }
 
 # Save
@@ -172,7 +177,7 @@ for(i in 1:length(res_list)){
 }
 saveWorkbook(overwrite = T,
              wb, 
-             here::here("results", "regression_tabs.xlsx")
+             here::here("results", "regression_tabs_v2.xlsx")
             )  
 
 
